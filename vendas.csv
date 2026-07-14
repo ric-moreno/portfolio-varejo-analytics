@@ -1,0 +1,1661 @@
+venda_id,lead_id,data_venda,categoria_produto,segmento,cidade,valor_venda,forma_pagamento
+1,7,2025-02-09,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,339.68,PIX
+2,14,2025-05-09,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,141.12,Contrato Recorrente (B2B)
+3,16,2024-07-15,Móveis,Consumidor Final (B2C),Três Lagoas,387.57,Cartão à vista
+4,18,2025-06-07,Brinquedos,Consumidor Final (B2C),Campo Grande,356.36,Contrato Recorrente (B2B)
+5,20,2025-12-15,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,453.23,Cartão à vista
+6,29,2025-05-01,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,159.51,Cartão parcelado
+7,37,2024-03-06,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,310.35,Cartão parcelado
+8,42,2025-07-24,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,236.07,Cartão parcelado
+9,43,2024-08-12,Moda e Vestuário,Consumidor Final (B2C),Dourados,371.1,Cartão à vista
+10,50,2025-12-31,Moda e Vestuário,Consumidor Final (B2C),Corumbá,117.13,PIX
+11,54,2025-10-02,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,338.34,PIX
+12,56,2024-02-17,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,305.61,Contrato Recorrente (B2B)
+13,61,2024-02-24,Ferramentas,Consumidor Final (B2C),Campo Grande,239.14,Cartão parcelado
+14,63,2024-10-02,Brinquedos,Consumidor Final (B2C),Três Lagoas,346.59,Cartão parcelado
+15,66,2025-04-03,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,262.65,Boleto (B2B)
+16,67,2024-12-25,Brinquedos,Consumidor Final (B2C),Dourados,404.34,Boleto (B2B)
+17,68,2025-02-11,Móveis,Consumidor Final (B2C),Dourados,268.76,PIX
+18,70,2024-09-10,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,279.16,PIX
+19,71,2024-05-28,Utilidades Domésticas,Conta Corporativa (B2B),Dourados,3951.63,Cartão parcelado
+20,73,2025-01-15,Móveis,Consumidor Final (B2C),Dourados,197.09,Cartão parcelado
+21,76,2024-03-03,Utilidades Domésticas,Consumidor Final (B2C),Dourados,428.42,Boleto (B2B)
+22,79,2024-02-11,Brinquedos,Consumidor Final (B2C),Campo Grande,471.84,PIX
+23,83,2024-09-16,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,341.36,Cartão à vista
+24,88,2025-09-08,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,227.86,Cartão à vista
+25,89,2024-06-13,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,367.87,Cartão parcelado
+26,93,2024-07-23,Brinquedos,Conta Corporativa (B2B),Campo Grande,9892.12,PIX
+27,100,2024-02-12,Móveis,Consumidor Final (B2C),Campo Grande,441.09,Cartão à vista
+28,103,2025-02-09,Casa e Decoração,Consumidor Final (B2C),Campo Grande,362.45,PIX
+29,110,2024-02-26,Papelaria e Escritório,Consumidor Final (B2C),Dourados,350.69,Cartão parcelado
+30,114,2024-03-17,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,259.7,Cartão parcelado
+31,117,2025-01-17,Casa e Decoração,Consumidor Final (B2C),Dourados,239.11,Cartão à vista
+32,119,2025-08-25,Ferramentas,Consumidor Final (B2C),Campo Grande,394.2,Contrato Recorrente (B2B)
+33,123,2024-04-29,Ferramentas,Consumidor Final (B2C),Campo Grande,339.58,Cartão à vista
+34,125,2025-12-24,Casa e Decoração,Conta Corporativa (B2B),Corumbá,10300.67,Cartão à vista
+35,126,2024-12-20,Móveis,Consumidor Final (B2C),Campo Grande,332.05,Cartão parcelado
+36,128,2024-07-14,Brinquedos,Consumidor Final (B2C),Dourados,411.2,Cartão à vista
+37,129,2025-12-25,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,384.21,Cartão à vista
+38,133,2024-06-01,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,9035.69,Cartão parcelado
+39,135,2025-01-15,Casa e Decoração,Consumidor Final (B2C),Campo Grande,275.36,Cartão parcelado
+40,138,2024-11-26,Móveis,Consumidor Final (B2C),Três Lagoas,421.31,Cartão parcelado
+41,139,2025-07-18,Casa e Decoração,Consumidor Final (B2C),Campo Grande,244.32,Cartão à vista
+42,141,2024-12-30,Moda e Vestuário,Conta Corporativa (B2B),Dourados,8846.2,PIX
+43,142,2024-07-13,Móveis,Consumidor Final (B2C),Ponta Porã,475.82,Cartão parcelado
+44,143,2025-03-15,Papelaria e Escritório,Consumidor Final (B2C),Dourados,340.67,Boleto (B2B)
+45,144,2025-01-07,Brinquedos,Consumidor Final (B2C),Dourados,306.28,Cartão parcelado
+46,147,2025-03-03,Eletrônicos,Consumidor Final (B2C),Três Lagoas,267.21,Boleto (B2B)
+47,152,2025-06-22,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,301.41,Cartão parcelado
+48,156,2025-05-28,Móveis,Consumidor Final (B2C),Três Lagoas,285.34,Cartão parcelado
+49,157,2024-04-25,Móveis,Consumidor Final (B2C),Dourados,300.11,Cartão parcelado
+50,160,2024-03-28,Móveis,Consumidor Final (B2C),Dourados,403.22,Cartão parcelado
+51,162,2024-02-09,Ferramentas,Consumidor Final (B2C),Campo Grande,516.43,PIX
+52,167,2024-12-08,Ferramentas,Conta Corporativa (B2B),Dourados,9672.29,PIX
+53,177,2025-02-01,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,369.25,Boleto (B2B)
+54,178,2024-05-06,Utilidades Domésticas,Conta Corporativa (B2B),Dourados,6482.25,Cartão parcelado
+55,179,2025-08-19,Móveis,Consumidor Final (B2C),Dourados,365.53,Cartão à vista
+56,180,2025-09-18,Casa e Decoração,Consumidor Final (B2C),Campo Grande,409.13,Contrato Recorrente (B2B)
+57,184,2024-10-26,Utilidades Domésticas,Consumidor Final (B2C),Dourados,522.15,PIX
+58,185,2024-01-07,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,173.24,Cartão parcelado
+59,187,2024-05-25,Móveis,Conta Corporativa (B2B),Campo Grande,6841.28,Contrato Recorrente (B2B)
+60,188,2025-01-24,Moda e Vestuário,Consumidor Final (B2C),Dourados,294.74,Contrato Recorrente (B2B)
+61,192,2025-08-10,Eletrônicos,Consumidor Final (B2C),Campo Grande,203.33,Cartão à vista
+62,197,2024-05-08,Brinquedos,Consumidor Final (B2C),Campo Grande,267.65,Cartão à vista
+63,198,2024-04-06,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,228.67,Cartão à vista
+64,202,2025-06-10,Brinquedos,Conta Corporativa (B2B),Corumbá,11219.4,PIX
+65,206,2024-12-10,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,395.46,PIX
+66,217,2024-09-11,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,422.81,PIX
+67,218,2025-08-05,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,219.13,PIX
+68,219,2025-12-31,Eletrônicos,Consumidor Final (B2C),Campo Grande,501.2,Cartão à vista
+69,220,2024-08-08,Eletrônicos,Consumidor Final (B2C),Campo Grande,332.29,Cartão à vista
+70,222,2025-09-17,Eletrônicos,Consumidor Final (B2C),Corumbá,384.71,Boleto (B2B)
+71,224,2025-12-04,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,381.83,Boleto (B2B)
+72,226,2025-03-12,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,6072.94,Cartão à vista
+73,230,2025-12-18,Brinquedos,Consumidor Final (B2C),Dourados,554.15,Cartão à vista
+74,232,2025-05-07,Brinquedos,Consumidor Final (B2C),Campo Grande,302.23,Cartão parcelado
+75,234,2024-04-01,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,10968.79,Cartão à vista
+76,238,2024-04-27,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,261.57,Cartão à vista
+77,239,2024-05-31,Eletrônicos,Consumidor Final (B2C),Ponta Porã,240.89,Cartão parcelado
+78,241,2025-02-09,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,471.83,Cartão à vista
+79,242,2025-07-21,Utilidades Domésticas,Conta Corporativa (B2B),Três Lagoas,12182.66,PIX
+80,243,2024-03-14,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,61.58,Boleto (B2B)
+81,244,2025-09-27,Ferramentas,Consumidor Final (B2C),Campo Grande,305.52,Boleto (B2B)
+82,256,2024-09-02,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,312.99,PIX
+83,258,2024-07-31,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,195.75,PIX
+84,263,2025-01-30,Ferramentas,Conta Corporativa (B2B),Corumbá,5578.54,Cartão parcelado
+85,271,2025-10-06,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,6442.03,Cartão à vista
+86,278,2025-11-02,Brinquedos,Consumidor Final (B2C),Campo Grande,477.46,PIX
+87,280,2025-08-24,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,303.41,Cartão parcelado
+88,283,2025-01-20,Móveis,Consumidor Final (B2C),Campo Grande,413.44,Cartão à vista
+89,285,2025-08-24,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,8818.71,Cartão parcelado
+90,294,2025-11-10,Casa e Decoração,Consumidor Final (B2C),Campo Grande,390.17,Cartão à vista
+91,299,2025-11-25,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,242.59,Boleto (B2B)
+92,302,2025-06-24,Eletrônicos,Consumidor Final (B2C),Campo Grande,262.91,Contrato Recorrente (B2B)
+93,304,2025-08-27,Moda e Vestuário,Consumidor Final (B2C),Dourados,497.11,Cartão à vista
+94,308,2025-08-13,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,391.02,Cartão à vista
+95,310,2025-07-04,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,287.92,Cartão à vista
+96,315,2024-07-21,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,392.64,Boleto (B2B)
+97,316,2024-03-11,Ferramentas,Consumidor Final (B2C),Campo Grande,232.38,Cartão à vista
+98,319,2025-10-11,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,305.64,Cartão parcelado
+99,321,2025-12-31,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,327.98,Cartão à vista
+100,323,2025-06-27,Moda e Vestuário,Conta Corporativa (B2B),Dourados,8983.82,Cartão parcelado
+101,327,2024-02-16,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,335.88,PIX
+102,330,2025-11-11,Brinquedos,Consumidor Final (B2C),Campo Grande,332.22,Cartão parcelado
+103,334,2025-07-18,Eletrônicos,Consumidor Final (B2C),Dourados,441.39,PIX
+104,335,2025-01-29,Moda e Vestuário,Consumidor Final (B2C),Dourados,359.45,PIX
+105,341,2024-06-14,Casa e Decoração,Consumidor Final (B2C),Dourados,369.38,Cartão parcelado
+106,343,2025-05-19,Brinquedos,Consumidor Final (B2C),Dourados,291.82,PIX
+107,350,2024-05-04,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,179.22,Boleto (B2B)
+108,353,2025-12-31,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,234.3,PIX
+109,356,2024-12-30,Ferramentas,Consumidor Final (B2C),Ponta Porã,222.28,PIX
+110,360,2024-08-05,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,224.66,PIX
+111,363,2024-07-21,Eletrônicos,Consumidor Final (B2C),Ponta Porã,293.54,Cartão à vista
+112,365,2024-07-11,Eletrônicos,Consumidor Final (B2C),Campo Grande,357.85,Contrato Recorrente (B2B)
+113,366,2025-10-28,Brinquedos,Consumidor Final (B2C),Ponta Porã,292.73,Cartão à vista
+114,373,2025-01-28,Móveis,Consumidor Final (B2C),Campo Grande,327.88,Cartão parcelado
+115,378,2025-03-28,Beleza e Higiene,Consumidor Final (B2C),Dourados,307.26,Cartão parcelado
+116,383,2024-12-01,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,407.98,Cartão à vista
+117,384,2024-03-22,Móveis,Consumidor Final (B2C),Campo Grande,252.24,Cartão parcelado
+118,385,2025-08-01,Casa e Decoração,Consumidor Final (B2C),Dourados,613.44,Cartão à vista
+119,392,2025-04-28,Móveis,Consumidor Final (B2C),Campo Grande,396.23,Boleto (B2B)
+120,393,2025-11-03,Brinquedos,Consumidor Final (B2C),Ponta Porã,207.89,Boleto (B2B)
+121,396,2024-07-22,Eletrônicos,Consumidor Final (B2C),Campo Grande,460.04,Cartão parcelado
+122,400,2025-03-16,Móveis,Consumidor Final (B2C),Dourados,219.92,Cartão parcelado
+123,403,2025-12-31,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,390.79,Cartão à vista
+124,404,2024-12-08,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,57.77,PIX
+125,407,2024-11-16,Brinquedos,Consumidor Final (B2C),Campo Grande,446.3,Cartão parcelado
+126,412,2024-06-08,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,239.44,Cartão à vista
+127,416,2025-04-06,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,10792.07,Contrato Recorrente (B2B)
+128,418,2025-06-17,Papelaria e Escritório,Consumidor Final (B2C),Dourados,376.68,PIX
+129,420,2025-07-30,Casa e Decoração,Consumidor Final (B2C),Dourados,184.36,Cartão à vista
+130,421,2025-12-24,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,8503.04,PIX
+131,426,2025-06-11,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,306.59,PIX
+132,427,2024-07-04,Utilidades Domésticas,Consumidor Final (B2C),Dourados,303.58,Cartão parcelado
+133,431,2024-03-03,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,282.83,Cartão à vista
+134,432,2025-01-15,Casa e Decoração,Consumidor Final (B2C),Dourados,236.6,Cartão parcelado
+135,434,2024-07-07,Móveis,Consumidor Final (B2C),Dourados,413.23,PIX
+136,435,2025-02-15,Brinquedos,Consumidor Final (B2C),Ponta Porã,321.49,Cartão à vista
+137,439,2025-12-31,Móveis,Consumidor Final (B2C),Corumbá,431.44,Cartão à vista
+138,441,2025-09-09,Ferramentas,Consumidor Final (B2C),Três Lagoas,441.86,PIX
+139,442,2025-05-03,Eletrônicos,Consumidor Final (B2C),Corumbá,382.0,Cartão parcelado
+140,450,2024-01-10,Ferramentas,Consumidor Final (B2C),Corumbá,283.9,Boleto (B2B)
+141,454,2025-07-10,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,9156.46,PIX
+142,461,2024-03-07,Ferramentas,Consumidor Final (B2C),Três Lagoas,399.83,Boleto (B2B)
+143,465,2024-07-29,Eletrônicos,Consumidor Final (B2C),Campo Grande,382.74,Cartão parcelado
+144,466,2025-01-21,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,298.48,PIX
+145,468,2025-01-31,Casa e Decoração,Consumidor Final (B2C),Corumbá,356.74,Cartão à vista
+146,476,2025-03-02,Móveis,Consumidor Final (B2C),Campo Grande,462.09,Cartão à vista
+147,481,2025-01-01,Casa e Decoração,Consumidor Final (B2C),Campo Grande,364.21,PIX
+148,482,2024-05-27,Ferramentas,Consumidor Final (B2C),Campo Grande,287.78,PIX
+149,484,2024-01-17,Eletrônicos,Consumidor Final (B2C),Campo Grande,255.59,Cartão parcelado
+150,490,2025-05-06,Moda e Vestuário,Consumidor Final (B2C),Dourados,278.08,Cartão parcelado
+151,494,2024-07-06,Moda e Vestuário,Conta Corporativa (B2B),Três Lagoas,7871.59,Cartão à vista
+152,496,2025-01-06,Papelaria e Escritório,Consumidor Final (B2C),Dourados,315.01,Cartão à vista
+153,500,2025-11-01,Casa e Decoração,Consumidor Final (B2C),Campo Grande,302.21,Boleto (B2B)
+154,507,2024-07-12,Papelaria e Escritório,Consumidor Final (B2C),Dourados,469.24,Cartão à vista
+155,509,2024-04-19,Móveis,Consumidor Final (B2C),Dourados,253.46,Cartão parcelado
+156,510,2025-10-03,Móveis,Consumidor Final (B2C),Três Lagoas,255.04,Boleto (B2B)
+157,512,2025-01-10,Eletrônicos,Consumidor Final (B2C),Campo Grande,395.13,Cartão à vista
+158,524,2024-03-09,Ferramentas,Consumidor Final (B2C),Dourados,174.31,Cartão à vista
+159,526,2025-12-18,Ferramentas,Consumidor Final (B2C),Dourados,187.43,PIX
+160,529,2025-03-08,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,364.92,Cartão parcelado
+161,536,2024-03-24,Casa e Decoração,Consumidor Final (B2C),Dourados,450.52,Cartão parcelado
+162,538,2024-05-07,Brinquedos,Consumidor Final (B2C),Campo Grande,339.03,PIX
+163,540,2025-12-02,Beleza e Higiene,Consumidor Final (B2C),Corumbá,394.32,Cartão parcelado
+164,541,2024-06-28,Brinquedos,Consumidor Final (B2C),Campo Grande,229.9,PIX
+165,552,2025-06-09,Utilidades Domésticas,Consumidor Final (B2C),Dourados,284.34,Contrato Recorrente (B2B)
+166,553,2024-04-04,Casa e Decoração,Consumidor Final (B2C),Corumbá,378.45,Contrato Recorrente (B2B)
+167,558,2025-12-30,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,388.77,Cartão parcelado
+168,559,2024-02-09,Brinquedos,Consumidor Final (B2C),Campo Grande,184.26,Cartão parcelado
+169,560,2024-06-02,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,215.87,Cartão parcelado
+170,561,2024-10-13,Brinquedos,Consumidor Final (B2C),Campo Grande,284.51,Cartão parcelado
+171,562,2024-06-14,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,306.33,Cartão parcelado
+172,563,2025-08-31,Ferramentas,Consumidor Final (B2C),Corumbá,405.26,Cartão à vista
+173,566,2025-07-31,Móveis,Consumidor Final (B2C),Dourados,408.05,Cartão à vista
+174,574,2024-08-12,Casa e Decoração,Consumidor Final (B2C),Dourados,335.13,PIX
+175,576,2024-05-11,Brinquedos,Consumidor Final (B2C),Três Lagoas,279.16,Cartão parcelado
+176,578,2025-03-12,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,269.36,PIX
+177,582,2025-05-17,Ferramentas,Consumidor Final (B2C),Ponta Porã,203.83,Cartão parcelado
+178,584,2024-12-14,Casa e Decoração,Consumidor Final (B2C),Campo Grande,175.98,PIX
+179,586,2024-06-04,Eletrônicos,Consumidor Final (B2C),Campo Grande,308.86,PIX
+180,587,2025-07-18,Brinquedos,Consumidor Final (B2C),Corumbá,345.11,Cartão à vista
+181,595,2025-07-21,Móveis,Consumidor Final (B2C),Campo Grande,375.63,Cartão parcelado
+182,597,2024-06-14,Eletrônicos,Consumidor Final (B2C),Campo Grande,157.03,PIX
+183,598,2024-07-16,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,363.48,Cartão parcelado
+184,606,2025-05-21,Ferramentas,Conta Corporativa (B2B),Campo Grande,7228.43,Cartão à vista
+185,624,2024-10-10,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,263.04,Cartão parcelado
+186,625,2025-03-06,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,9376.58,Cartão à vista
+187,628,2024-03-25,Beleza e Higiene,Conta Corporativa (B2B),Ponta Porã,8385.9,Cartão parcelado
+188,630,2025-09-26,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,399.76,Cartão à vista
+189,634,2025-09-05,Eletrônicos,Conta Corporativa (B2B),Ponta Porã,11669.29,Boleto (B2B)
+190,635,2025-05-01,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,251.08,Cartão parcelado
+191,636,2025-04-29,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,316.89,Boleto (B2B)
+192,638,2025-04-17,Brinquedos,Consumidor Final (B2C),Campo Grande,201.79,Cartão à vista
+193,642,2025-01-28,Ferramentas,Consumidor Final (B2C),Dourados,349.36,PIX
+194,649,2024-10-07,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,373.03,Cartão à vista
+195,654,2025-11-20,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,239.0,PIX
+196,657,2025-03-22,Ferramentas,Conta Corporativa (B2B),Campo Grande,6835.73,Cartão à vista
+197,662,2024-04-23,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,223.1,Boleto (B2B)
+198,673,2024-03-07,Eletrônicos,Consumidor Final (B2C),Ponta Porã,439.73,Cartão parcelado
+199,675,2024-08-12,Utilidades Domésticas,Consumidor Final (B2C),Dourados,380.73,Cartão à vista
+200,680,2024-03-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,198.5,Cartão parcelado
+201,685,2024-11-22,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,278.49,PIX
+202,686,2024-08-19,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,388.09,Cartão à vista
+203,688,2024-10-10,Eletrônicos,Consumidor Final (B2C),Três Lagoas,380.8,PIX
+204,689,2025-02-14,Casa e Decoração,Consumidor Final (B2C),Campo Grande,170.12,Cartão parcelado
+205,690,2025-07-19,Casa e Decoração,Consumidor Final (B2C),Dourados,293.76,Cartão parcelado
+206,696,2025-07-04,Brinquedos,Consumidor Final (B2C),Ponta Porã,348.83,PIX
+207,697,2024-06-25,Utilidades Domésticas,Consumidor Final (B2C),Dourados,279.68,Cartão à vista
+208,698,2025-10-04,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,229.58,Cartão parcelado
+209,699,2024-10-21,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,10242.09,Cartão parcelado
+210,700,2024-11-20,Beleza e Higiene,Consumidor Final (B2C),Corumbá,268.64,Cartão à vista
+211,704,2025-09-20,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,398.91,Cartão à vista
+212,705,2025-04-15,Moda e Vestuário,Consumidor Final (B2C),Dourados,217.84,Cartão parcelado
+213,708,2024-01-27,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,273.89,Cartão parcelado
+214,711,2025-12-31,Utilidades Domésticas,Conta Corporativa (B2B),Dourados,8003.56,Cartão à vista
+215,713,2024-06-23,Utilidades Domésticas,Consumidor Final (B2C),Dourados,214.71,Cartão à vista
+216,715,2024-08-30,Casa e Decoração,Consumidor Final (B2C),Campo Grande,208.86,Cartão à vista
+217,718,2025-05-29,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,421.72,Cartão parcelado
+218,721,2025-06-28,Alimentos e Bebidas,Conta Corporativa (B2B),Três Lagoas,9745.87,Cartão à vista
+219,722,2025-02-03,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,7278.75,PIX
+220,728,2025-05-29,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,336.27,Cartão à vista
+221,729,2024-12-06,Móveis,Consumidor Final (B2C),Campo Grande,230.5,PIX
+222,735,2025-12-19,Eletrônicos,Consumidor Final (B2C),Dourados,379.6,Cartão à vista
+223,736,2024-09-30,Brinquedos,Consumidor Final (B2C),Corumbá,236.27,Cartão parcelado
+224,737,2025-05-06,Móveis,Consumidor Final (B2C),Campo Grande,202.38,Cartão parcelado
+225,738,2025-10-01,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,293.11,Cartão parcelado
+226,740,2024-07-17,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,315.1,Cartão à vista
+227,741,2025-05-12,Brinquedos,Consumidor Final (B2C),Campo Grande,247.43,Boleto (B2B)
+228,742,2024-04-04,Beleza e Higiene,Consumidor Final (B2C),Dourados,326.81,Cartão à vista
+229,744,2025-02-23,Moda e Vestuário,Consumidor Final (B2C),Dourados,286.48,Cartão à vista
+230,756,2024-03-15,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,332.48,Cartão à vista
+231,757,2025-02-24,Ferramentas,Consumidor Final (B2C),Dourados,384.94,Contrato Recorrente (B2B)
+232,758,2024-08-14,Casa e Decoração,Consumidor Final (B2C),Dourados,294.15,Cartão à vista
+233,759,2025-03-27,Ferramentas,Consumidor Final (B2C),Dourados,237.46,Cartão parcelado
+234,760,2025-12-27,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,380.28,Cartão à vista
+235,761,2024-08-08,Ferramentas,Consumidor Final (B2C),Campo Grande,237.24,PIX
+236,763,2025-03-25,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,478.67,Cartão parcelado
+237,765,2024-05-10,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,422.48,Cartão parcelado
+238,766,2025-11-27,Ferramentas,Consumidor Final (B2C),Campo Grande,216.41,Boleto (B2B)
+239,772,2024-10-01,Brinquedos,Consumidor Final (B2C),Corumbá,208.44,Cartão parcelado
+240,773,2025-11-05,Móveis,Consumidor Final (B2C),Dourados,386.8,Contrato Recorrente (B2B)
+241,777,2025-03-25,Eletrônicos,Conta Corporativa (B2B),Três Lagoas,10315.04,PIX
+242,784,2024-08-17,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,326.13,Cartão parcelado
+243,789,2024-09-05,Brinquedos,Conta Corporativa (B2B),Campo Grande,9363.8,Cartão à vista
+244,796,2025-06-09,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,287.84,PIX
+245,800,2024-11-25,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,182.98,Cartão parcelado
+246,805,2025-07-27,Beleza e Higiene,Consumidor Final (B2C),Corumbá,313.12,Cartão parcelado
+247,806,2024-10-03,Casa e Decoração,Consumidor Final (B2C),Dourados,252.02,Boleto (B2B)
+248,807,2024-07-29,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,233.08,Cartão à vista
+249,818,2025-02-08,Alimentos e Bebidas,Conta Corporativa (B2B),Ponta Porã,5863.54,PIX
+250,819,2025-10-07,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,267.74,Cartão parcelado
+251,824,2025-12-07,Eletrônicos,Consumidor Final (B2C),Campo Grande,418.32,Cartão à vista
+252,827,2024-02-01,Casa e Decoração,Consumidor Final (B2C),Dourados,432.89,Cartão parcelado
+253,832,2025-06-03,Ferramentas,Consumidor Final (B2C),Ponta Porã,420.66,Cartão parcelado
+254,837,2024-11-09,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,4684.4,PIX
+255,843,2025-08-17,Ferramentas,Consumidor Final (B2C),Três Lagoas,327.74,Cartão parcelado
+256,847,2025-08-05,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,366.06,PIX
+257,849,2024-05-18,Móveis,Consumidor Final (B2C),Campo Grande,249.19,Cartão parcelado
+258,851,2025-09-21,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,346.93,Cartão parcelado
+259,857,2025-02-18,Moda e Vestuário,Consumidor Final (B2C),Dourados,515.63,Cartão parcelado
+260,865,2024-11-30,Ferramentas,Consumidor Final (B2C),Campo Grande,316.56,Cartão à vista
+261,867,2024-09-10,Móveis,Conta Corporativa (B2B),Campo Grande,9273.09,Cartão parcelado
+262,873,2025-12-31,Móveis,Consumidor Final (B2C),Campo Grande,222.42,Cartão parcelado
+263,875,2024-12-20,Brinquedos,Consumidor Final (B2C),Campo Grande,205.87,Contrato Recorrente (B2B)
+264,876,2024-05-08,Ferramentas,Consumidor Final (B2C),Dourados,304.86,Cartão parcelado
+265,882,2025-11-19,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,431.56,Cartão parcelado
+266,883,2024-03-13,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,326.72,Cartão à vista
+267,884,2024-06-12,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,10777.0,Cartão parcelado
+268,885,2025-09-01,Eletrônicos,Consumidor Final (B2C),Três Lagoas,344.28,PIX
+269,886,2024-05-27,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,312.14,Cartão à vista
+270,888,2024-09-08,Ferramentas,Consumidor Final (B2C),Campo Grande,193.57,Cartão à vista
+271,889,2024-08-03,Móveis,Consumidor Final (B2C),Três Lagoas,213.62,PIX
+272,900,2024-11-09,Eletrônicos,Consumidor Final (B2C),Ponta Porã,212.31,Cartão à vista
+273,901,2025-10-01,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,336.04,Cartão parcelado
+274,907,2024-05-26,Eletrônicos,Conta Corporativa (B2B),Três Lagoas,6128.68,PIX
+275,908,2025-12-20,Móveis,Consumidor Final (B2C),Dourados,412.17,Cartão parcelado
+276,911,2025-08-31,Brinquedos,Consumidor Final (B2C),Campo Grande,432.71,Cartão à vista
+277,913,2024-10-25,Papelaria e Escritório,Consumidor Final (B2C),Dourados,233.0,PIX
+278,914,2025-11-02,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,248.35,Cartão parcelado
+279,916,2025-03-17,Papelaria e Escritório,Conta Corporativa (B2B),Três Lagoas,7661.78,Cartão à vista
+280,917,2025-04-21,Moda e Vestuário,Conta Corporativa (B2B),Ponta Porã,5034.11,Cartão parcelado
+281,918,2025-01-01,Brinquedos,Consumidor Final (B2C),Dourados,297.76,Cartão à vista
+282,919,2025-03-03,Eletrônicos,Consumidor Final (B2C),Dourados,396.6,PIX
+283,923,2025-06-04,Móveis,Consumidor Final (B2C),Três Lagoas,329.99,PIX
+284,926,2024-07-03,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,289.68,Cartão à vista
+285,928,2024-02-01,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,347.5,PIX
+286,935,2024-05-31,Eletrônicos,Conta Corporativa (B2B),Três Lagoas,10489.2,Cartão à vista
+287,940,2025-08-17,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,340.52,PIX
+288,942,2024-09-17,Eletrônicos,Consumidor Final (B2C),Campo Grande,360.79,PIX
+289,943,2024-12-26,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,190.25,Cartão à vista
+290,945,2025-05-29,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,192.86,Cartão à vista
+291,949,2025-02-23,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,332.91,PIX
+292,954,2025-05-04,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,387.08,PIX
+293,956,2025-10-16,Brinquedos,Conta Corporativa (B2B),Dourados,8408.25,PIX
+294,957,2025-01-07,Ferramentas,Consumidor Final (B2C),Campo Grande,322.54,Cartão parcelado
+295,959,2024-09-12,Brinquedos,Consumidor Final (B2C),Dourados,312.16,Cartão parcelado
+296,960,2025-06-28,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,12635.72,Cartão parcelado
+297,961,2025-12-06,Alimentos e Bebidas,Conta Corporativa (B2B),Dourados,10743.51,Cartão parcelado
+298,966,2025-11-17,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,420.05,PIX
+299,967,2025-05-11,Brinquedos,Consumidor Final (B2C),Corumbá,399.97,PIX
+300,969,2025-02-11,Móveis,Consumidor Final (B2C),Campo Grande,445.2,Cartão à vista
+301,970,2024-02-06,Utilidades Domésticas,Consumidor Final (B2C),Dourados,376.98,Cartão parcelado
+302,974,2024-05-17,Casa e Decoração,Consumidor Final (B2C),Dourados,374.71,Cartão parcelado
+303,982,2024-03-25,Ferramentas,Consumidor Final (B2C),Dourados,434.7,Cartão parcelado
+304,986,2024-03-08,Móveis,Consumidor Final (B2C),Campo Grande,204.3,Cartão parcelado
+305,995,2025-05-19,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,269.23,PIX
+306,997,2025-12-31,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,278.49,Boleto (B2B)
+307,998,2025-07-27,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,357.49,Cartão à vista
+308,1001,2025-12-31,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,205.82,PIX
+309,1005,2024-05-03,Eletrônicos,Consumidor Final (B2C),Campo Grande,368.51,Cartão parcelado
+310,1007,2024-04-14,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,232.16,Cartão parcelado
+311,1008,2025-09-28,Ferramentas,Consumidor Final (B2C),Dourados,379.59,Cartão à vista
+312,1018,2024-03-13,Brinquedos,Consumidor Final (B2C),Dourados,476.68,Cartão à vista
+313,1019,2024-08-06,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,402.62,Contrato Recorrente (B2B)
+314,1020,2025-11-19,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,381.84,PIX
+315,1022,2024-11-06,Brinquedos,Consumidor Final (B2C),Campo Grande,337.34,Cartão parcelado
+316,1027,2025-12-24,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,394.98,PIX
+317,1030,2025-04-21,Móveis,Consumidor Final (B2C),Ponta Porã,331.19,Cartão à vista
+318,1031,2025-12-31,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,232.75,PIX
+319,1033,2025-04-15,Ferramentas,Conta Corporativa (B2B),Campo Grande,10995.34,PIX
+320,1034,2024-03-28,Móveis,Consumidor Final (B2C),Dourados,306.31,Cartão parcelado
+321,1035,2025-08-17,Papelaria e Escritório,Consumidor Final (B2C),Dourados,108.0,Cartão à vista
+322,1037,2024-11-25,Casa e Decoração,Conta Corporativa (B2B),Ponta Porã,6159.21,Contrato Recorrente (B2B)
+323,1038,2024-03-03,Brinquedos,Consumidor Final (B2C),Corumbá,469.5,Cartão parcelado
+324,1039,2025-01-25,Utilidades Domésticas,Consumidor Final (B2C),Dourados,285.67,Cartão à vista
+325,1040,2024-07-10,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,354.2,PIX
+326,1046,2025-08-17,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,4486.02,Cartão parcelado
+327,1048,2024-08-24,Eletrônicos,Consumidor Final (B2C),Campo Grande,383.58,PIX
+328,1052,2024-09-30,Moda e Vestuário,Conta Corporativa (B2B),Três Lagoas,5241.48,PIX
+329,1058,2025-07-10,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,486.18,PIX
+330,1064,2024-03-08,Brinquedos,Consumidor Final (B2C),Campo Grande,168.57,Cartão à vista
+331,1070,2025-03-18,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,297.43,Boleto (B2B)
+332,1075,2024-02-27,Papelaria e Escritório,Consumidor Final (B2C),Dourados,444.22,Cartão à vista
+333,1076,2025-12-02,Brinquedos,Consumidor Final (B2C),Campo Grande,398.88,Cartão à vista
+334,1080,2025-01-13,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,326.93,Cartão parcelado
+335,1085,2024-09-13,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,173.32,Cartão parcelado
+336,1092,2024-07-11,Utilidades Domésticas,Consumidor Final (B2C),Dourados,130.59,Cartão à vista
+337,1094,2025-12-24,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,375.77,Cartão parcelado
+338,1098,2024-06-28,Ferramentas,Consumidor Final (B2C),Campo Grande,165.45,Cartão parcelado
+339,1099,2024-05-20,Casa e Decoração,Consumidor Final (B2C),Campo Grande,228.72,Cartão parcelado
+340,1100,2024-03-20,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,414.3,Cartão à vista
+341,1104,2025-11-16,Papelaria e Escritório,Conta Corporativa (B2B),Três Lagoas,6780.69,Cartão à vista
+342,1110,2024-11-17,Casa e Decoração,Consumidor Final (B2C),Campo Grande,454.06,PIX
+343,1116,2024-11-17,Papelaria e Escritório,Conta Corporativa (B2B),Três Lagoas,6878.54,Contrato Recorrente (B2B)
+344,1124,2025-01-07,Brinquedos,Consumidor Final (B2C),Campo Grande,299.32,Cartão à vista
+345,1128,2024-11-23,Utilidades Domésticas,Consumidor Final (B2C),Dourados,309.41,PIX
+346,1129,2024-10-02,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,295.57,Boleto (B2B)
+347,1130,2024-02-03,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,278.24,Cartão à vista
+348,1131,2025-09-27,Papelaria e Escritório,Consumidor Final (B2C),Dourados,304.55,PIX
+349,1132,2024-01-11,Beleza e Higiene,Consumidor Final (B2C),Dourados,546.13,Boleto (B2B)
+350,1133,2024-08-17,Ferramentas,Consumidor Final (B2C),Campo Grande,413.42,Cartão à vista
+351,1135,2025-10-26,Móveis,Consumidor Final (B2C),Campo Grande,371.52,Cartão à vista
+352,1137,2025-12-27,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,202.3,Boleto (B2B)
+353,1138,2024-03-08,Casa e Decoração,Consumidor Final (B2C),Dourados,288.94,Cartão parcelado
+354,1140,2024-06-19,Brinquedos,Conta Corporativa (B2B),Campo Grande,10038.82,Cartão à vista
+355,1141,2024-03-14,Casa e Decoração,Consumidor Final (B2C),Dourados,342.35,Cartão parcelado
+356,1147,2025-02-03,Ferramentas,Consumidor Final (B2C),Campo Grande,323.22,Cartão à vista
+357,1152,2024-12-25,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,303.94,Boleto (B2B)
+358,1154,2024-01-27,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,7679.97,Cartão à vista
+359,1157,2025-04-22,Beleza e Higiene,Consumidor Final (B2C),Corumbá,240.9,Cartão parcelado
+360,1158,2024-08-11,Casa e Decoração,Conta Corporativa (B2B),Ponta Porã,5451.72,PIX
+361,1166,2025-12-01,Casa e Decoração,Consumidor Final (B2C),Campo Grande,267.47,PIX
+362,1172,2024-08-18,Brinquedos,Consumidor Final (B2C),Campo Grande,315.61,Boleto (B2B)
+363,1184,2024-12-10,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,426.8,Cartão parcelado
+364,1185,2025-12-29,Ferramentas,Consumidor Final (B2C),Corumbá,199.42,Contrato Recorrente (B2B)
+365,1187,2024-03-16,Brinquedos,Consumidor Final (B2C),Campo Grande,304.48,Cartão parcelado
+366,1190,2024-04-16,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,334.98,PIX
+367,1194,2024-04-15,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,286.62,Cartão parcelado
+368,1201,2024-08-18,Utilidades Domésticas,Consumidor Final (B2C),Dourados,365.43,Contrato Recorrente (B2B)
+369,1202,2025-12-18,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,326.13,PIX
+370,1204,2025-04-26,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,375.33,Cartão à vista
+371,1207,2024-10-02,Moda e Vestuário,Consumidor Final (B2C),Corumbá,300.23,Cartão à vista
+372,1208,2025-04-02,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,291.2,Boleto (B2B)
+373,1216,2025-05-26,Brinquedos,Consumidor Final (B2C),Campo Grande,250.72,PIX
+374,1219,2024-09-23,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,347.07,Cartão parcelado
+375,1220,2025-09-25,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,10188.7,Cartão parcelado
+376,1222,2025-02-27,Moda e Vestuário,Consumidor Final (B2C),Dourados,312.64,Boleto (B2B)
+377,1224,2024-07-14,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,243.17,Cartão à vista
+378,1226,2024-10-03,Eletrônicos,Consumidor Final (B2C),Campo Grande,286.81,Cartão à vista
+379,1231,2025-03-31,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,287.38,PIX
+380,1239,2025-06-27,Eletrônicos,Consumidor Final (B2C),Campo Grande,405.79,Cartão à vista
+381,1241,2024-06-19,Brinquedos,Consumidor Final (B2C),Dourados,249.89,Cartão parcelado
+382,1246,2025-10-22,Móveis,Consumidor Final (B2C),Campo Grande,159.82,Cartão à vista
+383,1247,2025-05-26,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,353.93,PIX
+384,1248,2025-12-31,Eletrônicos,Consumidor Final (B2C),Ponta Porã,297.26,Cartão à vista
+385,1249,2025-01-15,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,11414.63,Cartão à vista
+386,1252,2024-11-28,Ferramentas,Consumidor Final (B2C),Campo Grande,305.62,Cartão à vista
+387,1254,2025-05-30,Móveis,Conta Corporativa (B2B),Campo Grande,9065.92,Cartão parcelado
+388,1263,2025-11-17,Casa e Decoração,Consumidor Final (B2C),Campo Grande,313.62,Cartão à vista
+389,1266,2024-12-29,Ferramentas,Consumidor Final (B2C),Ponta Porã,215.3,Cartão à vista
+390,1269,2025-10-13,Beleza e Higiene,Consumidor Final (B2C),Corumbá,257.09,Cartão parcelado
+391,1271,2025-04-30,Móveis,Consumidor Final (B2C),Ponta Porã,304.35,Cartão à vista
+392,1272,2025-02-23,Móveis,Consumidor Final (B2C),Dourados,440.47,Cartão à vista
+393,1274,2025-06-18,Utilidades Domésticas,Consumidor Final (B2C),Dourados,226.07,Cartão parcelado
+394,1280,2024-08-04,Casa e Decoração,Consumidor Final (B2C),Campo Grande,375.64,Contrato Recorrente (B2B)
+395,1284,2025-01-16,Casa e Decoração,Consumidor Final (B2C),Campo Grande,536.36,PIX
+396,1286,2024-09-19,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,245.11,PIX
+397,1287,2024-03-09,Eletrônicos,Consumidor Final (B2C),Campo Grande,208.35,Contrato Recorrente (B2B)
+398,1293,2025-03-15,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,461.67,Cartão à vista
+399,1294,2025-03-23,Eletrônicos,Consumidor Final (B2C),Dourados,288.87,Cartão parcelado
+400,1296,2024-05-16,Beleza e Higiene,Conta Corporativa (B2B),Ponta Porã,7811.19,Cartão parcelado
+401,1299,2024-10-30,Móveis,Consumidor Final (B2C),Campo Grande,159.85,Cartão parcelado
+402,1304,2025-09-10,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,307.02,PIX
+403,1310,2025-01-23,Casa e Decoração,Conta Corporativa (B2B),Dourados,11159.82,PIX
+404,1311,2025-09-13,Ferramentas,Consumidor Final (B2C),Ponta Porã,396.7,PIX
+405,1312,2025-12-31,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,320.44,PIX
+406,1314,2025-09-18,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,225.02,Cartão à vista
+407,1315,2025-06-29,Ferramentas,Consumidor Final (B2C),Dourados,377.47,Cartão à vista
+408,1318,2024-10-06,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,9010.88,Cartão à vista
+409,1319,2025-10-02,Ferramentas,Consumidor Final (B2C),Ponta Porã,314.69,Cartão à vista
+410,1320,2025-01-27,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,486.62,Cartão parcelado
+411,1321,2024-04-06,Ferramentas,Consumidor Final (B2C),Campo Grande,436.0,Cartão parcelado
+412,1322,2025-05-20,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,295.26,Contrato Recorrente (B2B)
+413,1323,2025-06-08,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,308.88,Cartão à vista
+414,1326,2024-03-17,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,146.5,Cartão à vista
+415,1329,2024-02-20,Beleza e Higiene,Consumidor Final (B2C),Corumbá,251.95,Boleto (B2B)
+416,1330,2024-03-23,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,244.73,Cartão parcelado
+417,1332,2024-05-28,Móveis,Consumidor Final (B2C),Três Lagoas,217.79,Cartão parcelado
+418,1333,2025-12-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,218.49,Cartão parcelado
+419,1335,2024-11-11,Utilidades Domésticas,Consumidor Final (B2C),Dourados,196.7,Cartão à vista
+420,1338,2025-05-15,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,542.66,PIX
+421,1342,2024-09-05,Beleza e Higiene,Consumidor Final (B2C),Dourados,296.38,Cartão parcelado
+422,1343,2024-05-12,Brinquedos,Conta Corporativa (B2B),Dourados,9605.15,Cartão à vista
+423,1345,2024-01-23,Eletrônicos,Consumidor Final (B2C),Campo Grande,332.65,Cartão à vista
+424,1348,2024-02-12,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,181.36,PIX
+425,1351,2024-10-20,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,466.58,Cartão parcelado
+426,1355,2025-03-07,Eletrônicos,Consumidor Final (B2C),Campo Grande,281.91,PIX
+427,1360,2024-06-16,Utilidades Domésticas,Conta Corporativa (B2B),Ponta Porã,11043.98,PIX
+428,1361,2024-06-08,Eletrônicos,Consumidor Final (B2C),Ponta Porã,330.83,Cartão parcelado
+429,1362,2024-10-12,Ferramentas,Consumidor Final (B2C),Três Lagoas,147.36,Cartão à vista
+430,1366,2025-04-11,Moda e Vestuário,Consumidor Final (B2C),Dourados,245.68,PIX
+431,1368,2024-03-07,Ferramentas,Conta Corporativa (B2B),Ponta Porã,7073.37,PIX
+432,1375,2025-05-22,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,50.0,Cartão parcelado
+433,1379,2024-01-22,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,459.88,Cartão parcelado
+434,1380,2025-12-30,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,380.23,PIX
+435,1381,2024-09-04,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,330.69,Cartão à vista
+436,1384,2024-02-29,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,183.21,PIX
+437,1386,2025-12-20,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,333.44,PIX
+438,1388,2025-01-04,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,477.72,Cartão à vista
+439,1392,2024-09-01,Beleza e Higiene,Conta Corporativa (B2B),Campo Grande,6017.0,PIX
+440,1394,2024-08-10,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,249.07,PIX
+441,1396,2024-08-19,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,329.6,Cartão à vista
+442,1397,2024-09-11,Moda e Vestuário,Consumidor Final (B2C),Dourados,414.26,Cartão à vista
+443,1401,2025-03-24,Eletrônicos,Conta Corporativa (B2B),Campo Grande,7893.0,PIX
+444,1409,2024-05-06,Casa e Decoração,Consumidor Final (B2C),Campo Grande,419.45,Cartão à vista
+445,1415,2025-05-16,Móveis,Consumidor Final (B2C),Dourados,283.38,Boleto (B2B)
+446,1416,2024-09-06,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,455.82,Cartão parcelado
+447,1417,2024-11-26,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,282.97,Boleto (B2B)
+448,1420,2024-04-21,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,308.07,PIX
+449,1423,2024-07-06,Móveis,Consumidor Final (B2C),Campo Grande,244.77,Cartão à vista
+450,1425,2025-10-22,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,263.84,Cartão parcelado
+451,1426,2025-03-05,Moda e Vestuário,Conta Corporativa (B2B),Corumbá,10357.96,Cartão parcelado
+452,1427,2025-06-23,Casa e Decoração,Consumidor Final (B2C),Dourados,244.1,PIX
+453,1430,2024-09-08,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,281.96,Boleto (B2B)
+454,1432,2025-10-29,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,234.23,PIX
+455,1435,2025-03-20,Beleza e Higiene,Consumidor Final (B2C),Corumbá,446.96,Cartão à vista
+456,1445,2025-06-18,Brinquedos,Consumidor Final (B2C),Corumbá,471.8,Cartão parcelado
+457,1446,2024-10-12,Ferramentas,Consumidor Final (B2C),Campo Grande,257.89,Cartão à vista
+458,1447,2025-02-12,Utilidades Domésticas,Conta Corporativa (B2B),Três Lagoas,9901.2,Cartão à vista
+459,1451,2025-09-12,Casa e Decoração,Consumidor Final (B2C),Campo Grande,346.29,Cartão parcelado
+460,1453,2025-01-04,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,291.72,Cartão à vista
+461,1454,2025-02-26,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,403.04,Boleto (B2B)
+462,1456,2024-01-29,Brinquedos,Consumidor Final (B2C),Três Lagoas,270.26,Cartão à vista
+463,1460,2025-06-01,Ferramentas,Conta Corporativa (B2B),Ponta Porã,8919.39,PIX
+464,1462,2025-07-09,Casa e Decoração,Consumidor Final (B2C),Dourados,306.53,Cartão parcelado
+465,1464,2025-04-06,Eletrônicos,Consumidor Final (B2C),Dourados,324.94,PIX
+466,1468,2025-08-05,Móveis,Consumidor Final (B2C),Campo Grande,190.44,PIX
+467,1470,2024-10-22,Moda e Vestuário,Conta Corporativa (B2B),Corumbá,10622.28,PIX
+468,1471,2024-02-28,Ferramentas,Consumidor Final (B2C),Campo Grande,426.73,Cartão parcelado
+469,1474,2024-11-17,Moda e Vestuário,Consumidor Final (B2C),Corumbá,247.69,PIX
+470,1475,2025-02-15,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,256.48,Cartão à vista
+471,1478,2025-03-28,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,372.29,Cartão parcelado
+472,1480,2024-04-01,Brinquedos,Consumidor Final (B2C),Campo Grande,503.47,Contrato Recorrente (B2B)
+473,1481,2025-06-02,Ferramentas,Consumidor Final (B2C),Três Lagoas,313.62,Contrato Recorrente (B2B)
+474,1482,2024-08-22,Alimentos e Bebidas,Conta Corporativa (B2B),Ponta Porã,11146.11,Cartão à vista
+475,1490,2025-08-25,Casa e Decoração,Consumidor Final (B2C),Campo Grande,467.83,Cartão parcelado
+476,1492,2025-12-31,Casa e Decoração,Consumidor Final (B2C),Dourados,407.83,Cartão parcelado
+477,1493,2024-09-26,Ferramentas,Consumidor Final (B2C),Campo Grande,473.52,PIX
+478,1499,2024-02-15,Móveis,Consumidor Final (B2C),Corumbá,337.43,PIX
+479,1503,2024-08-21,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,406.07,Cartão à vista
+480,1505,2025-09-02,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,395.33,PIX
+481,1506,2024-07-13,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,353.16,Cartão à vista
+482,1511,2025-12-31,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,388.0,Contrato Recorrente (B2B)
+483,1518,2025-08-02,Casa e Decoração,Consumidor Final (B2C),Dourados,371.24,Boleto (B2B)
+484,1520,2024-09-28,Brinquedos,Consumidor Final (B2C),Campo Grande,393.98,Cartão à vista
+485,1522,2025-07-26,Beleza e Higiene,Consumidor Final (B2C),Dourados,360.29,PIX
+486,1526,2024-10-29,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,420.2,Cartão à vista
+487,1531,2024-02-19,Moda e Vestuário,Consumidor Final (B2C),Corumbá,293.14,Cartão à vista
+488,1535,2025-03-04,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,228.86,Boleto (B2B)
+489,1542,2024-06-11,Casa e Decoração,Consumidor Final (B2C),Campo Grande,237.57,Cartão à vista
+490,1544,2024-01-28,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,300.49,Cartão parcelado
+491,1547,2024-11-09,Eletrônicos,Consumidor Final (B2C),Campo Grande,280.32,Boleto (B2B)
+492,1556,2024-01-21,Ferramentas,Consumidor Final (B2C),Campo Grande,304.67,Cartão à vista
+493,1558,2024-06-19,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,12666.32,Cartão parcelado
+494,1560,2024-09-18,Eletrônicos,Consumidor Final (B2C),Campo Grande,180.23,Cartão parcelado
+495,1562,2025-09-20,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,97.87,PIX
+496,1566,2024-08-06,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,231.74,PIX
+497,1568,2024-08-28,Moda e Vestuário,Consumidor Final (B2C),Dourados,176.27,Cartão parcelado
+498,1571,2025-03-25,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,226.81,PIX
+499,1576,2025-03-09,Móveis,Conta Corporativa (B2B),Campo Grande,8556.38,Boleto (B2B)
+500,1577,2024-09-11,Moda e Vestuário,Consumidor Final (B2C),Corumbá,289.54,Boleto (B2B)
+501,1585,2025-01-07,Brinquedos,Consumidor Final (B2C),Campo Grande,239.49,Cartão parcelado
+502,1587,2025-04-16,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,250.27,PIX
+503,1592,2024-06-05,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,305.67,PIX
+504,1593,2024-08-20,Casa e Decoração,Consumidor Final (B2C),Campo Grande,358.02,PIX
+505,1595,2024-05-17,Beleza e Higiene,Consumidor Final (B2C),Dourados,248.83,Cartão parcelado
+506,1598,2024-02-11,Brinquedos,Consumidor Final (B2C),Ponta Porã,269.84,Cartão à vista
+507,1602,2024-07-07,Brinquedos,Consumidor Final (B2C),Dourados,437.25,Cartão parcelado
+508,1603,2024-02-03,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,8411.55,PIX
+509,1604,2025-06-11,Eletrônicos,Conta Corporativa (B2B),Corumbá,7395.62,PIX
+510,1610,2025-01-02,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,371.61,PIX
+511,1617,2024-09-03,Ferramentas,Consumidor Final (B2C),Ponta Porã,495.49,Cartão parcelado
+512,1618,2025-05-11,Eletrônicos,Consumidor Final (B2C),Corumbá,280.23,Cartão à vista
+513,1619,2025-11-29,Casa e Decoração,Consumidor Final (B2C),Campo Grande,158.96,Cartão à vista
+514,1621,2025-11-03,Casa e Decoração,Consumidor Final (B2C),Campo Grande,434.7,Cartão parcelado
+515,1626,2025-06-14,Eletrônicos,Consumidor Final (B2C),Campo Grande,448.54,Cartão à vista
+516,1634,2025-06-09,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,219.63,Contrato Recorrente (B2B)
+517,1637,2025-09-19,Ferramentas,Consumidor Final (B2C),Corumbá,323.28,Cartão à vista
+518,1643,2024-04-11,Ferramentas,Consumidor Final (B2C),Campo Grande,322.9,Cartão parcelado
+519,1646,2024-05-27,Beleza e Higiene,Conta Corporativa (B2B),Campo Grande,12313.31,Cartão à vista
+520,1647,2025-05-31,Casa e Decoração,Consumidor Final (B2C),Campo Grande,348.26,Cartão à vista
+521,1649,2025-09-04,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,413.56,Cartão à vista
+522,1656,2025-02-24,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,187.43,PIX
+523,1657,2025-05-14,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,12713.48,Cartão parcelado
+524,1658,2025-11-04,Papelaria e Escritório,Consumidor Final (B2C),Dourados,304.13,Cartão à vista
+525,1661,2025-11-13,Casa e Decoração,Consumidor Final (B2C),Corumbá,219.63,Cartão parcelado
+526,1663,2024-09-15,Ferramentas,Consumidor Final (B2C),Corumbá,273.4,PIX
+527,1670,2024-10-06,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,209.24,PIX
+528,1673,2025-02-18,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,349.76,Cartão à vista
+529,1676,2025-12-31,Eletrônicos,Consumidor Final (B2C),Dourados,272.56,Boleto (B2B)
+530,1678,2025-05-04,Moda e Vestuário,Consumidor Final (B2C),Dourados,213.6,Cartão à vista
+531,1681,2024-05-08,Ferramentas,Consumidor Final (B2C),Dourados,259.65,Boleto (B2B)
+532,1687,2024-08-16,Ferramentas,Consumidor Final (B2C),Campo Grande,298.52,Cartão à vista
+533,1689,2024-01-18,Móveis,Consumidor Final (B2C),Campo Grande,421.31,Cartão parcelado
+534,1691,2024-10-21,Brinquedos,Conta Corporativa (B2B),Três Lagoas,7494.57,Cartão parcelado
+535,1692,2024-10-31,Utilidades Domésticas,Consumidor Final (B2C),Dourados,340.29,Cartão parcelado
+536,1693,2025-06-25,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,429.69,Cartão parcelado
+537,1694,2024-08-30,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,247.27,Cartão à vista
+538,1695,2024-08-24,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,398.18,Cartão parcelado
+539,1696,2025-09-21,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,486.2,Cartão à vista
+540,1698,2025-12-26,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,4820.71,PIX
+541,1699,2025-10-29,Brinquedos,Consumidor Final (B2C),Campo Grande,241.48,Boleto (B2B)
+542,1701,2025-04-07,Utilidades Domésticas,Consumidor Final (B2C),Dourados,257.22,Cartão parcelado
+543,1702,2024-04-13,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,174.31,Cartão parcelado
+544,1703,2025-05-31,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,460.17,Cartão à vista
+545,1705,2025-10-13,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,414.02,Cartão parcelado
+546,1708,2025-02-16,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,293.32,Cartão à vista
+547,1713,2025-02-25,Eletrônicos,Consumidor Final (B2C),Dourados,220.58,Cartão à vista
+548,1715,2025-03-10,Moda e Vestuário,Consumidor Final (B2C),Dourados,340.95,Cartão à vista
+549,1720,2024-10-13,Brinquedos,Consumidor Final (B2C),Dourados,379.65,Boleto (B2B)
+550,1722,2024-06-16,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,219.22,Contrato Recorrente (B2B)
+551,1723,2025-11-16,Ferramentas,Consumidor Final (B2C),Dourados,123.31,Boleto (B2B)
+552,1727,2024-08-06,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,436.76,Contrato Recorrente (B2B)
+553,1734,2024-03-29,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,152.82,PIX
+554,1743,2024-09-27,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,410.31,Cartão à vista
+555,1750,2025-06-03,Casa e Decoração,Consumidor Final (B2C),Campo Grande,238.26,Cartão parcelado
+556,1751,2024-12-11,Alimentos e Bebidas,Conta Corporativa (B2B),Corumbá,8272.26,PIX
+557,1754,2025-05-01,Ferramentas,Consumidor Final (B2C),Dourados,422.46,Cartão parcelado
+558,1758,2024-11-19,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,7375.23,Cartão parcelado
+559,1760,2025-01-29,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,186.77,Cartão parcelado
+560,1763,2025-08-16,Moda e Vestuário,Consumidor Final (B2C),Corumbá,323.92,Cartão parcelado
+561,1764,2025-06-19,Ferramentas,Consumidor Final (B2C),Três Lagoas,346.8,Cartão à vista
+562,1768,2024-09-17,Moda e Vestuário,Consumidor Final (B2C),Corumbá,419.77,PIX
+563,1772,2025-03-20,Móveis,Consumidor Final (B2C),Campo Grande,294.47,Cartão à vista
+564,1775,2025-08-30,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,432.78,Cartão à vista
+565,1777,2024-03-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,371.29,Boleto (B2B)
+566,1779,2024-07-29,Ferramentas,Consumidor Final (B2C),Ponta Porã,288.83,Cartão parcelado
+567,1788,2024-12-05,Móveis,Consumidor Final (B2C),Campo Grande,386.12,PIX
+568,1790,2024-02-18,Casa e Decoração,Conta Corporativa (B2B),Corumbá,8617.21,PIX
+569,1791,2025-01-16,Móveis,Consumidor Final (B2C),Campo Grande,325.42,Cartão parcelado
+570,1794,2024-12-20,Brinquedos,Consumidor Final (B2C),Campo Grande,450.34,PIX
+571,1801,2025-11-28,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,242.79,Cartão à vista
+572,1802,2025-12-31,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,421.22,Boleto (B2B)
+573,1810,2025-05-18,Eletrônicos,Consumidor Final (B2C),Três Lagoas,414.36,PIX
+574,1819,2025-03-19,Moda e Vestuário,Consumidor Final (B2C),Dourados,323.56,Boleto (B2B)
+575,1822,2024-09-04,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,401.97,Boleto (B2B)
+576,1824,2025-07-31,Papelaria e Escritório,Consumidor Final (B2C),Dourados,284.02,Cartão parcelado
+577,1829,2024-03-01,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,355.68,Boleto (B2B)
+578,1832,2024-03-06,Eletrônicos,Consumidor Final (B2C),Dourados,210.96,Cartão parcelado
+579,1833,2024-06-19,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,235.11,Cartão à vista
+580,1838,2024-11-22,Brinquedos,Consumidor Final (B2C),Campo Grande,312.76,PIX
+581,1844,2024-02-25,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,277.56,Boleto (B2B)
+582,1848,2024-12-07,Móveis,Consumidor Final (B2C),Ponta Porã,360.57,Cartão à vista
+583,1849,2025-03-05,Ferramentas,Consumidor Final (B2C),Campo Grande,225.62,Contrato Recorrente (B2B)
+584,1854,2025-09-09,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,346.89,PIX
+585,1855,2024-08-27,Eletrônicos,Conta Corporativa (B2B),Campo Grande,6962.87,Cartão à vista
+586,1857,2024-07-09,Ferramentas,Consumidor Final (B2C),Campo Grande,287.75,Cartão parcelado
+587,1860,2025-04-08,Eletrônicos,Conta Corporativa (B2B),Campo Grande,7761.78,PIX
+588,1861,2025-06-27,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,364.26,Cartão parcelado
+589,1867,2024-03-02,Ferramentas,Consumidor Final (B2C),Campo Grande,238.92,PIX
+590,1872,2025-06-15,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,352.13,Boleto (B2B)
+591,1873,2025-12-31,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,7051.36,Boleto (B2B)
+592,1882,2025-04-11,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,478.21,Cartão à vista
+593,1883,2025-12-14,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,451.01,Cartão parcelado
+594,1889,2025-05-28,Casa e Decoração,Consumidor Final (B2C),Campo Grande,249.93,Cartão à vista
+595,1890,2024-05-24,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,377.97,Cartão parcelado
+596,1894,2025-03-21,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,314.61,Contrato Recorrente (B2B)
+597,1900,2025-07-16,Ferramentas,Consumidor Final (B2C),Campo Grande,349.0,Cartão à vista
+598,1903,2024-07-25,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,440.19,Cartão parcelado
+599,1905,2024-09-30,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,330.72,Contrato Recorrente (B2B)
+600,1912,2025-11-25,Brinquedos,Consumidor Final (B2C),Campo Grande,496.59,PIX
+601,1915,2025-06-06,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,347.8,Cartão à vista
+602,1921,2025-04-08,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,265.2,Cartão parcelado
+603,1924,2024-11-01,Moda e Vestuário,Consumidor Final (B2C),Dourados,301.35,Contrato Recorrente (B2B)
+604,1926,2024-07-14,Eletrônicos,Consumidor Final (B2C),Corumbá,254.79,Cartão parcelado
+605,1931,2025-03-30,Ferramentas,Consumidor Final (B2C),Ponta Porã,289.94,PIX
+606,1932,2024-05-25,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,6792.41,PIX
+607,1935,2025-07-31,Papelaria e Escritório,Consumidor Final (B2C),Dourados,207.5,PIX
+608,1938,2024-05-31,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,9733.67,Cartão parcelado
+609,1941,2025-11-24,Ferramentas,Consumidor Final (B2C),Campo Grande,309.38,Cartão à vista
+610,1945,2024-02-19,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,365.2,PIX
+611,1947,2025-03-24,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,342.95,Contrato Recorrente (B2B)
+612,1957,2025-01-22,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,371.8,Contrato Recorrente (B2B)
+613,1962,2024-12-14,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,252.01,Cartão parcelado
+614,1965,2024-10-18,Beleza e Higiene,Consumidor Final (B2C),Corumbá,335.75,Cartão parcelado
+615,1968,2024-05-17,Ferramentas,Consumidor Final (B2C),Campo Grande,419.68,Cartão parcelado
+616,1974,2025-05-09,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,265.24,Cartão à vista
+617,1975,2024-11-05,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,418.63,Boleto (B2B)
+618,1980,2024-02-15,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,7552.3,Cartão à vista
+619,1984,2025-12-16,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,343.25,Cartão à vista
+620,1985,2025-12-16,Beleza e Higiene,Consumidor Final (B2C),Dourados,297.27,PIX
+621,1988,2024-11-10,Eletrônicos,Consumidor Final (B2C),Ponta Porã,318.37,PIX
+622,1990,2025-02-04,Ferramentas,Conta Corporativa (B2B),Campo Grande,7125.5,PIX
+623,1991,2024-02-27,Beleza e Higiene,Consumidor Final (B2C),Corumbá,246.62,PIX
+624,1997,2024-11-22,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,255.28,Cartão parcelado
+625,1998,2025-04-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,314.18,Cartão à vista
+626,1999,2024-06-30,Moda e Vestuário,Consumidor Final (B2C),Corumbá,368.11,Contrato Recorrente (B2B)
+627,2002,2025-08-01,Ferramentas,Consumidor Final (B2C),Dourados,179.27,Boleto (B2B)
+628,2003,2025-08-31,Móveis,Consumidor Final (B2C),Campo Grande,339.56,Cartão parcelado
+629,2004,2025-02-22,Ferramentas,Consumidor Final (B2C),Ponta Porã,356.19,Cartão parcelado
+630,2014,2024-10-14,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,295.0,Cartão parcelado
+631,2017,2024-02-14,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,208.61,PIX
+632,2020,2024-10-16,Beleza e Higiene,Consumidor Final (B2C),Dourados,433.13,PIX
+633,2023,2025-01-29,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,242.13,Cartão à vista
+634,2024,2024-12-22,Ferramentas,Consumidor Final (B2C),Ponta Porã,250.86,Cartão parcelado
+635,2026,2024-05-25,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,353.09,PIX
+636,2027,2025-07-23,Móveis,Consumidor Final (B2C),Campo Grande,364.02,Contrato Recorrente (B2B)
+637,2030,2025-11-29,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,331.77,Cartão parcelado
+638,2036,2025-11-01,Moda e Vestuário,Consumidor Final (B2C),Dourados,379.51,PIX
+639,2040,2025-04-25,Eletrônicos,Consumidor Final (B2C),Dourados,310.0,Cartão parcelado
+640,2044,2024-09-13,Eletrônicos,Consumidor Final (B2C),Campo Grande,225.64,Cartão à vista
+641,2048,2025-09-08,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,9297.39,PIX
+642,2049,2025-09-28,Eletrônicos,Consumidor Final (B2C),Ponta Porã,262.75,PIX
+643,2051,2025-10-26,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,9319.46,Cartão parcelado
+644,2053,2025-04-14,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,444.21,PIX
+645,2055,2025-06-09,Casa e Decoração,Consumidor Final (B2C),Campo Grande,124.48,Boleto (B2B)
+646,2057,2025-08-05,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,315.36,PIX
+647,2061,2024-12-06,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,255.54,Boleto (B2B)
+648,2063,2024-05-24,Eletrônicos,Consumidor Final (B2C),Dourados,348.58,Cartão à vista
+649,2066,2024-04-14,Brinquedos,Conta Corporativa (B2B),Ponta Porã,8560.47,PIX
+650,2069,2024-11-27,Móveis,Consumidor Final (B2C),Dourados,343.97,Cartão parcelado
+651,2071,2025-10-13,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,389.04,Cartão à vista
+652,2075,2025-08-24,Móveis,Consumidor Final (B2C),Ponta Porã,329.44,Cartão à vista
+653,2077,2024-10-20,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,457.67,PIX
+654,2078,2024-01-27,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,400.43,Cartão à vista
+655,2079,2025-01-02,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,186.26,Cartão parcelado
+656,2087,2024-04-07,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,382.95,PIX
+657,2089,2025-09-16,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,352.57,PIX
+658,2090,2024-07-21,Casa e Decoração,Consumidor Final (B2C),Campo Grande,209.99,Cartão parcelado
+659,2091,2025-04-08,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,269.92,PIX
+660,2094,2024-12-13,Ferramentas,Consumidor Final (B2C),Campo Grande,272.27,Contrato Recorrente (B2B)
+661,2096,2024-08-24,Eletrônicos,Consumidor Final (B2C),Campo Grande,338.04,Boleto (B2B)
+662,2101,2025-01-24,Móveis,Consumidor Final (B2C),Dourados,380.92,Cartão à vista
+663,2104,2024-10-15,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,252.42,Boleto (B2B)
+664,2106,2024-11-10,Ferramentas,Consumidor Final (B2C),Ponta Porã,400.98,Cartão à vista
+665,2109,2024-07-20,Moda e Vestuário,Consumidor Final (B2C),Corumbá,387.86,PIX
+666,2119,2025-04-03,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,281.55,Boleto (B2B)
+667,2120,2025-07-02,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,4437.87,PIX
+668,2121,2025-06-05,Eletrônicos,Consumidor Final (B2C),Dourados,276.23,PIX
+669,2124,2024-03-29,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,244.52,Boleto (B2B)
+670,2125,2024-09-21,Eletrônicos,Consumidor Final (B2C),Corumbá,306.61,Contrato Recorrente (B2B)
+671,2129,2024-01-25,Moda e Vestuário,Conta Corporativa (B2B),Três Lagoas,8559.21,Cartão parcelado
+672,2130,2025-03-09,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,334.6,Contrato Recorrente (B2B)
+673,2133,2025-07-15,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,425.86,Cartão à vista
+674,2136,2025-08-31,Casa e Decoração,Conta Corporativa (B2B),Corumbá,11617.03,Cartão parcelado
+675,2139,2025-12-29,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,238.87,PIX
+676,2143,2025-03-07,Papelaria e Escritório,Consumidor Final (B2C),Dourados,313.27,Contrato Recorrente (B2B)
+677,2144,2025-12-18,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,185.44,Cartão à vista
+678,2153,2025-05-05,Moda e Vestuário,Consumidor Final (B2C),Dourados,377.43,Contrato Recorrente (B2B)
+679,2159,2025-08-05,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,382.21,Contrato Recorrente (B2B)
+680,2162,2025-10-27,Ferramentas,Consumidor Final (B2C),Campo Grande,382.77,Boleto (B2B)
+681,2163,2024-03-20,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,8080.08,Cartão à vista
+682,2164,2025-02-25,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,170.7,PIX
+683,2169,2025-02-20,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,334.45,PIX
+684,2171,2025-03-25,Ferramentas,Conta Corporativa (B2B),Campo Grande,6269.0,Cartão à vista
+685,2172,2025-06-25,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,247.81,Contrato Recorrente (B2B)
+686,2174,2025-11-03,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,198.52,Cartão à vista
+687,2176,2024-08-26,Eletrônicos,Consumidor Final (B2C),Campo Grande,441.35,Cartão parcelado
+688,2177,2024-08-07,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,289.1,Cartão à vista
+689,2180,2024-02-25,Casa e Decoração,Consumidor Final (B2C),Campo Grande,334.91,Cartão parcelado
+690,2182,2024-04-09,Brinquedos,Consumidor Final (B2C),Ponta Porã,237.31,Cartão parcelado
+691,2183,2024-02-03,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,241.23,Contrato Recorrente (B2B)
+692,2185,2025-06-06,Eletrônicos,Consumidor Final (B2C),Campo Grande,266.63,Contrato Recorrente (B2B)
+693,2186,2024-04-14,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,294.2,Cartão parcelado
+694,2188,2024-04-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,271.11,Cartão parcelado
+695,2189,2024-08-01,Ferramentas,Conta Corporativa (B2B),Campo Grande,9234.68,Cartão à vista
+696,2191,2024-12-23,Utilidades Domésticas,Consumidor Final (B2C),Dourados,374.61,Cartão parcelado
+697,2192,2025-05-06,Ferramentas,Conta Corporativa (B2B),Ponta Porã,6131.0,Contrato Recorrente (B2B)
+698,2194,2025-05-26,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,288.63,Cartão à vista
+699,2195,2025-03-22,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,332.9,Cartão à vista
+700,2196,2024-02-28,Casa e Decoração,Consumidor Final (B2C),Dourados,251.89,Boleto (B2B)
+701,2201,2024-04-17,Móveis,Consumidor Final (B2C),Dourados,364.32,PIX
+702,2203,2024-06-01,Brinquedos,Consumidor Final (B2C),Dourados,311.36,Cartão parcelado
+703,2205,2024-04-06,Móveis,Consumidor Final (B2C),Campo Grande,330.73,PIX
+704,2207,2024-12-22,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,267.77,Cartão à vista
+705,2208,2025-04-25,Ferramentas,Consumidor Final (B2C),Campo Grande,495.26,Boleto (B2B)
+706,2209,2025-08-29,Eletrônicos,Consumidor Final (B2C),Dourados,264.38,Cartão parcelado
+707,2212,2024-10-15,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,204.74,PIX
+708,2216,2024-10-19,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,382.76,Cartão parcelado
+709,2217,2025-09-29,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,284.63,Cartão à vista
+710,2218,2024-03-10,Moda e Vestuário,Conta Corporativa (B2B),Corumbá,8005.27,PIX
+711,2221,2024-02-25,Papelaria e Escritório,Conta Corporativa (B2B),Corumbá,6614.22,Cartão à vista
+712,2223,2025-01-11,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,274.73,Cartão à vista
+713,2227,2025-06-27,Móveis,Consumidor Final (B2C),Ponta Porã,487.63,Cartão parcelado
+714,2236,2024-11-30,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,518.52,Cartão parcelado
+715,2239,2025-06-24,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,256.32,PIX
+716,2241,2025-01-14,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,255.35,Cartão parcelado
+717,2242,2024-03-04,Casa e Decoração,Consumidor Final (B2C),Dourados,285.36,Cartão parcelado
+718,2243,2025-01-08,Brinquedos,Conta Corporativa (B2B),Ponta Porã,7507.23,Cartão parcelado
+719,2244,2024-04-05,Móveis,Consumidor Final (B2C),Dourados,198.25,Boleto (B2B)
+720,2248,2024-10-02,Brinquedos,Consumidor Final (B2C),Dourados,353.7,Cartão à vista
+721,2249,2024-05-06,Ferramentas,Conta Corporativa (B2B),Campo Grande,8547.1,PIX
+722,2250,2025-11-16,Eletrônicos,Consumidor Final (B2C),Dourados,426.57,Cartão parcelado
+723,2251,2025-10-27,Moda e Vestuário,Consumidor Final (B2C),Dourados,281.13,Cartão parcelado
+724,2253,2024-08-18,Móveis,Consumidor Final (B2C),Dourados,405.23,PIX
+725,2256,2025-01-02,Papelaria e Escritório,Consumidor Final (B2C),Dourados,401.82,Boleto (B2B)
+726,2263,2025-07-07,Eletrônicos,Consumidor Final (B2C),Campo Grande,414.11,PIX
+727,2268,2024-04-11,Casa e Decoração,Consumidor Final (B2C),Campo Grande,272.95,PIX
+728,2269,2024-05-05,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,321.73,Cartão parcelado
+729,2270,2024-08-04,Casa e Decoração,Conta Corporativa (B2B),Dourados,5162.04,Cartão parcelado
+730,2274,2025-11-27,Eletrônicos,Consumidor Final (B2C),Ponta Porã,349.14,Cartão parcelado
+731,2275,2025-09-19,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,195.49,Cartão à vista
+732,2277,2025-02-21,Utilidades Domésticas,Conta Corporativa (B2B),Ponta Porã,11324.23,Cartão parcelado
+733,2282,2025-08-12,Eletrônicos,Conta Corporativa (B2B),Campo Grande,11182.57,Cartão parcelado
+734,2285,2024-08-05,Casa e Decoração,Consumidor Final (B2C),Campo Grande,307.93,PIX
+735,2286,2025-11-28,Eletrônicos,Consumidor Final (B2C),Três Lagoas,241.47,Cartão parcelado
+736,2293,2025-06-03,Casa e Decoração,Conta Corporativa (B2B),Ponta Porã,8250.59,Contrato Recorrente (B2B)
+737,2295,2024-08-14,Ferramentas,Consumidor Final (B2C),Campo Grande,414.95,Cartão parcelado
+738,2297,2025-09-27,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,396.62,PIX
+739,2301,2025-02-24,Brinquedos,Consumidor Final (B2C),Ponta Porã,258.07,Cartão parcelado
+740,2305,2025-03-17,Eletrônicos,Consumidor Final (B2C),Ponta Porã,382.89,PIX
+741,2308,2025-05-10,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,383.6,Cartão à vista
+742,2310,2024-09-19,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,400.41,Cartão à vista
+743,2317,2025-02-27,Utilidades Domésticas,Consumidor Final (B2C),Dourados,195.89,Cartão parcelado
+744,2318,2024-07-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,426.12,PIX
+745,2320,2024-10-17,Eletrônicos,Consumidor Final (B2C),Três Lagoas,296.2,PIX
+746,2321,2025-03-24,Móveis,Consumidor Final (B2C),Ponta Porã,296.69,Cartão parcelado
+747,2322,2025-05-15,Beleza e Higiene,Consumidor Final (B2C),Dourados,179.43,Cartão à vista
+748,2326,2025-10-19,Ferramentas,Consumidor Final (B2C),Campo Grande,342.98,PIX
+749,2328,2024-05-13,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,285.08,Boleto (B2B)
+750,2330,2024-04-03,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,8676.85,Cartão à vista
+751,2337,2025-12-03,Eletrônicos,Consumidor Final (B2C),Ponta Porã,399.18,PIX
+752,2338,2024-04-18,Móveis,Consumidor Final (B2C),Campo Grande,239.09,Cartão à vista
+753,2339,2024-12-22,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,319.31,Boleto (B2B)
+754,2340,2025-05-17,Brinquedos,Consumidor Final (B2C),Campo Grande,334.62,PIX
+755,2341,2024-02-20,Eletrônicos,Consumidor Final (B2C),Ponta Porã,322.18,Cartão à vista
+756,2344,2024-09-07,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,197.04,Cartão à vista
+757,2348,2025-03-25,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,402.47,PIX
+758,2349,2025-10-15,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,207.04,PIX
+759,2351,2025-12-02,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,319.08,PIX
+760,2352,2025-08-23,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,372.01,Cartão parcelado
+761,2354,2024-07-25,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,7958.16,PIX
+762,2357,2024-02-22,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,290.42,Boleto (B2B)
+763,2369,2025-07-31,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,166.2,Contrato Recorrente (B2B)
+764,2370,2025-01-23,Brinquedos,Consumidor Final (B2C),Dourados,306.74,Cartão parcelado
+765,2373,2025-03-09,Papelaria e Escritório,Consumidor Final (B2C),Dourados,468.96,Cartão parcelado
+766,2374,2025-11-10,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,274.57,Cartão à vista
+767,2375,2024-10-23,Moda e Vestuário,Consumidor Final (B2C),Dourados,224.52,Cartão parcelado
+768,2377,2024-12-19,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,240.89,PIX
+769,2379,2025-02-03,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,11312.56,Cartão parcelado
+770,2380,2025-02-22,Moda e Vestuário,Consumidor Final (B2C),Dourados,285.54,Cartão parcelado
+771,2382,2024-10-12,Ferramentas,Consumidor Final (B2C),Três Lagoas,457.23,Boleto (B2B)
+772,2384,2024-06-23,Ferramentas,Consumidor Final (B2C),Campo Grande,381.82,Cartão à vista
+773,2385,2025-11-24,Brinquedos,Conta Corporativa (B2B),Corumbá,8675.91,Boleto (B2B)
+774,2386,2025-12-31,Casa e Decoração,Consumidor Final (B2C),Campo Grande,318.12,Cartão à vista
+775,2392,2024-12-18,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,295.74,Cartão à vista
+776,2399,2024-09-16,Móveis,Consumidor Final (B2C),Campo Grande,178.51,Cartão parcelado
+777,2402,2024-04-29,Brinquedos,Consumidor Final (B2C),Campo Grande,361.84,Boleto (B2B)
+778,2403,2025-06-18,Alimentos e Bebidas,Conta Corporativa (B2B),Ponta Porã,10141.81,Boleto (B2B)
+779,2405,2024-01-08,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,269.05,PIX
+780,2406,2025-06-24,Ferramentas,Consumidor Final (B2C),Corumbá,347.48,Cartão parcelado
+781,2408,2025-07-22,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,194.17,Cartão parcelado
+782,2409,2024-08-22,Brinquedos,Consumidor Final (B2C),Três Lagoas,234.62,Cartão parcelado
+783,2410,2025-12-17,Eletrônicos,Consumidor Final (B2C),Campo Grande,326.58,Contrato Recorrente (B2B)
+784,2413,2025-06-01,Ferramentas,Consumidor Final (B2C),Campo Grande,220.23,Contrato Recorrente (B2B)
+785,2420,2024-05-23,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,385.86,PIX
+786,2423,2025-12-31,Ferramentas,Consumidor Final (B2C),Corumbá,249.98,Cartão parcelado
+787,2424,2024-08-29,Móveis,Consumidor Final (B2C),Campo Grande,291.16,Cartão parcelado
+788,2427,2025-12-31,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,272.3,Cartão à vista
+789,2429,2025-07-28,Papelaria e Escritório,Consumidor Final (B2C),Dourados,413.75,Cartão parcelado
+790,2430,2024-04-09,Móveis,Consumidor Final (B2C),Corumbá,220.39,Cartão parcelado
+791,2431,2024-04-02,Brinquedos,Consumidor Final (B2C),Corumbá,335.84,Cartão à vista
+792,2432,2024-02-07,Eletrônicos,Consumidor Final (B2C),Campo Grande,260.59,Cartão parcelado
+793,2433,2024-04-30,Móveis,Consumidor Final (B2C),Três Lagoas,431.68,Cartão parcelado
+794,2444,2025-04-18,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,270.46,PIX
+795,2448,2024-02-10,Móveis,Conta Corporativa (B2B),Campo Grande,10395.02,Cartão à vista
+796,2453,2024-12-09,Beleza e Higiene,Consumidor Final (B2C),Corumbá,235.32,Cartão parcelado
+797,2456,2025-07-23,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,9858.7,PIX
+798,2460,2024-10-04,Eletrônicos,Consumidor Final (B2C),Ponta Porã,355.13,Contrato Recorrente (B2B)
+799,2463,2024-03-10,Ferramentas,Consumidor Final (B2C),Corumbá,435.65,Cartão à vista
+800,2464,2025-12-30,Ferramentas,Consumidor Final (B2C),Campo Grande,305.97,PIX
+801,2466,2025-10-26,Brinquedos,Consumidor Final (B2C),Campo Grande,401.36,Cartão à vista
+802,2469,2025-08-02,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,343.75,Cartão à vista
+803,2473,2025-02-03,Móveis,Consumidor Final (B2C),Dourados,458.03,Cartão à vista
+804,2477,2025-08-05,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,329.49,Cartão parcelado
+805,2478,2025-12-02,Ferramentas,Consumidor Final (B2C),Campo Grande,278.19,PIX
+806,2479,2024-05-17,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,432.7,Boleto (B2B)
+807,2481,2025-05-06,Brinquedos,Consumidor Final (B2C),Dourados,341.62,Cartão parcelado
+808,2484,2024-12-06,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,246.97,Cartão parcelado
+809,2486,2024-02-14,Eletrônicos,Consumidor Final (B2C),Ponta Porã,198.01,Cartão à vista
+810,2491,2025-04-07,Beleza e Higiene,Consumidor Final (B2C),Dourados,273.1,Cartão parcelado
+811,2492,2024-01-14,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,375.22,Cartão à vista
+812,2495,2024-04-30,Ferramentas,Consumidor Final (B2C),Campo Grande,375.33,Cartão à vista
+813,2497,2025-01-01,Eletrônicos,Consumidor Final (B2C),Corumbá,370.96,Cartão à vista
+814,2498,2025-04-21,Móveis,Consumidor Final (B2C),Campo Grande,407.02,PIX
+815,2503,2025-08-09,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,402.76,Cartão à vista
+816,2504,2025-08-27,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,481.85,PIX
+817,2509,2025-11-20,Brinquedos,Consumidor Final (B2C),Campo Grande,360.0,Cartão à vista
+818,2510,2024-11-15,Papelaria e Escritório,Consumidor Final (B2C),Dourados,109.29,PIX
+819,2515,2025-02-26,Brinquedos,Conta Corporativa (B2B),Dourados,8510.05,Cartão à vista
+820,2524,2024-04-20,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,6645.32,Cartão à vista
+821,2528,2024-04-09,Ferramentas,Consumidor Final (B2C),Dourados,403.79,Cartão parcelado
+822,2530,2025-07-19,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,221.57,Contrato Recorrente (B2B)
+823,2532,2024-02-05,Ferramentas,Consumidor Final (B2C),Três Lagoas,174.01,PIX
+824,2534,2025-06-06,Ferramentas,Conta Corporativa (B2B),Campo Grande,9334.91,Cartão parcelado
+825,2535,2025-10-01,Eletrônicos,Consumidor Final (B2C),Corumbá,306.52,Cartão à vista
+826,2540,2024-05-08,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,313.74,Cartão à vista
+827,2541,2024-02-09,Beleza e Higiene,Consumidor Final (B2C),Dourados,378.01,PIX
+828,2543,2025-06-24,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,182.74,PIX
+829,2550,2024-03-24,Móveis,Consumidor Final (B2C),Três Lagoas,311.57,Cartão parcelado
+830,2561,2025-12-29,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,335.09,Cartão parcelado
+831,2562,2024-03-06,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,487.32,PIX
+832,2570,2025-01-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,272.75,Cartão parcelado
+833,2571,2025-02-04,Casa e Decoração,Consumidor Final (B2C),Campo Grande,342.64,Cartão parcelado
+834,2575,2025-10-13,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,234.43,Cartão à vista
+835,2577,2025-11-24,Brinquedos,Consumidor Final (B2C),Três Lagoas,377.53,Cartão à vista
+836,2578,2025-08-27,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,383.76,Cartão parcelado
+837,2581,2024-02-11,Eletrônicos,Consumidor Final (B2C),Corumbá,198.47,PIX
+838,2585,2024-06-01,Eletrônicos,Consumidor Final (B2C),Campo Grande,342.41,PIX
+839,2588,2025-08-18,Beleza e Higiene,Consumidor Final (B2C),Corumbá,479.24,PIX
+840,2590,2024-08-17,Eletrônicos,Consumidor Final (B2C),Campo Grande,226.4,Boleto (B2B)
+841,2592,2025-07-09,Utilidades Domésticas,Consumidor Final (B2C),Dourados,390.4,Cartão parcelado
+842,2593,2024-10-13,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,273.37,Cartão à vista
+843,2594,2025-02-20,Papelaria e Escritório,Consumidor Final (B2C),Dourados,346.95,Cartão à vista
+844,2598,2024-09-21,Móveis,Consumidor Final (B2C),Ponta Porã,348.02,Contrato Recorrente (B2B)
+845,2600,2025-12-27,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,268.08,Cartão parcelado
+846,2601,2025-12-06,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,335.49,PIX
+847,2604,2025-09-23,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,418.31,Cartão parcelado
+848,2608,2024-04-28,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,334.01,Cartão parcelado
+849,2610,2024-04-06,Ferramentas,Consumidor Final (B2C),Três Lagoas,210.91,Cartão à vista
+850,2613,2025-03-23,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,493.76,Boleto (B2B)
+851,2614,2024-06-04,Moda e Vestuário,Conta Corporativa (B2B),Três Lagoas,10757.59,Cartão à vista
+852,2617,2025-07-06,Brinquedos,Consumidor Final (B2C),Campo Grande,344.76,Boleto (B2B)
+853,2618,2025-03-28,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,280.88,Cartão à vista
+854,2619,2024-11-28,Casa e Decoração,Consumidor Final (B2C),Campo Grande,313.96,Cartão à vista
+855,2622,2025-11-05,Eletrônicos,Conta Corporativa (B2B),Campo Grande,7416.99,Cartão à vista
+856,2624,2025-02-08,Móveis,Consumidor Final (B2C),Corumbá,286.76,Boleto (B2B)
+857,2625,2024-06-18,Móveis,Consumidor Final (B2C),Campo Grande,333.3,Cartão à vista
+858,2626,2025-10-13,Móveis,Conta Corporativa (B2B),Três Lagoas,2930.85,Cartão parcelado
+859,2630,2024-08-16,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,223.42,Cartão à vista
+860,2633,2025-09-04,Eletrônicos,Consumidor Final (B2C),Campo Grande,345.65,Cartão à vista
+861,2642,2025-05-23,Casa e Decoração,Consumidor Final (B2C),Campo Grande,397.52,Cartão parcelado
+862,2643,2025-04-09,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,381.25,Contrato Recorrente (B2B)
+863,2644,2025-06-09,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,368.94,Boleto (B2B)
+864,2647,2025-04-12,Móveis,Consumidor Final (B2C),Campo Grande,484.72,Cartão à vista
+865,2649,2024-08-21,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,328.91,Boleto (B2B)
+866,2654,2025-03-01,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,242.15,Cartão parcelado
+867,2656,2025-09-23,Móveis,Consumidor Final (B2C),Campo Grande,390.78,Cartão à vista
+868,2658,2024-06-23,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,166.92,PIX
+869,2659,2025-04-14,Papelaria e Escritório,Consumidor Final (B2C),Dourados,320.38,Cartão à vista
+870,2662,2025-02-26,Móveis,Consumidor Final (B2C),Ponta Porã,454.99,Boleto (B2B)
+871,2667,2025-10-30,Brinquedos,Consumidor Final (B2C),Dourados,380.81,PIX
+872,2668,2025-04-26,Moda e Vestuário,Conta Corporativa (B2B),Dourados,4742.56,Cartão à vista
+873,2676,2025-04-29,Casa e Decoração,Consumidor Final (B2C),Dourados,276.22,Cartão parcelado
+874,2677,2024-11-08,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,455.76,Cartão parcelado
+875,2681,2025-05-11,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,298.49,Cartão parcelado
+876,2684,2024-05-13,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,336.96,Cartão parcelado
+877,2687,2024-10-06,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,396.98,Cartão parcelado
+878,2689,2024-10-11,Moda e Vestuário,Consumidor Final (B2C),Dourados,272.89,Cartão parcelado
+879,2692,2024-03-15,Móveis,Consumidor Final (B2C),Dourados,335.26,PIX
+880,2693,2025-09-02,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,369.88,Boleto (B2B)
+881,2696,2025-10-20,Utilidades Domésticas,Conta Corporativa (B2B),Dourados,5292.47,Cartão à vista
+882,2699,2024-07-23,Ferramentas,Consumidor Final (B2C),Campo Grande,195.66,Cartão parcelado
+883,2701,2025-06-24,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,388.31,PIX
+884,2710,2024-12-03,Móveis,Consumidor Final (B2C),Corumbá,192.67,Cartão à vista
+885,2711,2025-12-12,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,383.34,Boleto (B2B)
+886,2713,2025-06-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,287.57,Cartão à vista
+887,2716,2025-06-19,Brinquedos,Consumidor Final (B2C),Dourados,352.82,PIX
+888,2721,2025-07-29,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,233.1,PIX
+889,2723,2025-05-04,Utilidades Domésticas,Consumidor Final (B2C),Dourados,319.69,Cartão parcelado
+890,2724,2025-12-31,Móveis,Consumidor Final (B2C),Três Lagoas,322.03,Boleto (B2B)
+891,2727,2024-11-28,Ferramentas,Consumidor Final (B2C),Campo Grande,463.88,Contrato Recorrente (B2B)
+892,2728,2024-02-15,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,396.3,Contrato Recorrente (B2B)
+893,2730,2024-11-27,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,251.54,PIX
+894,2732,2024-10-15,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,189.46,Cartão parcelado
+895,2736,2025-08-25,Ferramentas,Conta Corporativa (B2B),Campo Grande,12672.53,Boleto (B2B)
+896,2737,2024-09-19,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,283.48,PIX
+897,2738,2024-02-17,Moda e Vestuário,Conta Corporativa (B2B),Corumbá,9598.71,Cartão parcelado
+898,2741,2025-12-26,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,305.23,Contrato Recorrente (B2B)
+899,2745,2025-08-22,Ferramentas,Consumidor Final (B2C),Campo Grande,276.21,PIX
+900,2747,2024-12-31,Brinquedos,Consumidor Final (B2C),Corumbá,158.43,Cartão parcelado
+901,2748,2024-12-04,Móveis,Conta Corporativa (B2B),Campo Grande,6512.12,Cartão parcelado
+902,2756,2024-03-16,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,9040.63,Contrato Recorrente (B2B)
+903,2762,2024-07-22,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,441.93,Cartão parcelado
+904,2763,2025-06-22,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,367.97,Cartão à vista
+905,2764,2024-04-09,Brinquedos,Consumidor Final (B2C),Campo Grande,438.98,Cartão parcelado
+906,2765,2025-12-31,Moda e Vestuário,Conta Corporativa (B2B),Dourados,8529.03,Boleto (B2B)
+907,2769,2024-12-17,Papelaria e Escritório,Consumidor Final (B2C),Dourados,334.4,Cartão parcelado
+908,2771,2024-07-08,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,7950.13,PIX
+909,2773,2024-11-05,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,384.85,Cartão à vista
+910,2778,2024-12-15,Ferramentas,Consumidor Final (B2C),Corumbá,320.53,PIX
+911,2780,2024-05-15,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,289.45,Cartão à vista
+912,2782,2025-06-25,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,203.07,Cartão parcelado
+913,2783,2024-11-14,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,253.1,Cartão parcelado
+914,2789,2025-07-26,Brinquedos,Consumidor Final (B2C),Ponta Porã,380.79,Contrato Recorrente (B2B)
+915,2805,2024-12-20,Eletrônicos,Conta Corporativa (B2B),Campo Grande,9552.89,Cartão à vista
+916,2808,2025-12-07,Ferramentas,Consumidor Final (B2C),Dourados,356.12,Cartão à vista
+917,2809,2024-06-27,Brinquedos,Consumidor Final (B2C),Campo Grande,351.99,Cartão à vista
+918,2812,2024-10-17,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,234.08,Cartão à vista
+919,2815,2025-12-03,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,332.52,Cartão à vista
+920,2819,2024-01-25,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,427.03,PIX
+921,2824,2024-02-21,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,398.28,Cartão parcelado
+922,2825,2024-05-31,Eletrônicos,Consumidor Final (B2C),Ponta Porã,418.92,PIX
+923,2826,2025-06-22,Utilidades Domésticas,Conta Corporativa (B2B),Ponta Porã,5494.26,Cartão à vista
+924,2827,2025-05-12,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,331.2,Boleto (B2B)
+925,2830,2024-04-20,Alimentos e Bebidas,Conta Corporativa (B2B),Três Lagoas,7315.63,Cartão à vista
+926,2831,2025-12-28,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,239.32,Contrato Recorrente (B2B)
+927,2836,2025-02-06,Ferramentas,Conta Corporativa (B2B),Campo Grande,10523.95,PIX
+928,2837,2025-03-12,Móveis,Conta Corporativa (B2B),Ponta Porã,4074.72,Cartão parcelado
+929,2842,2025-02-06,Moda e Vestuário,Conta Corporativa (B2B),Dourados,9254.12,Cartão parcelado
+930,2844,2025-03-27,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,513.14,Contrato Recorrente (B2B)
+931,2852,2024-08-16,Moda e Vestuário,Consumidor Final (B2C),Dourados,219.45,Cartão parcelado
+932,2853,2024-10-08,Ferramentas,Consumidor Final (B2C),Três Lagoas,328.22,Cartão à vista
+933,2858,2025-04-01,Beleza e Higiene,Consumidor Final (B2C),Corumbá,258.54,Cartão parcelado
+934,2861,2025-12-31,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,7861.91,Boleto (B2B)
+935,2870,2025-04-06,Eletrônicos,Consumidor Final (B2C),Campo Grande,366.12,Contrato Recorrente (B2B)
+936,2877,2024-02-07,Móveis,Consumidor Final (B2C),Campo Grande,273.73,Cartão parcelado
+937,2879,2024-08-15,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,396.98,Cartão à vista
+938,2883,2024-05-11,Móveis,Consumidor Final (B2C),Dourados,293.52,PIX
+939,2886,2024-07-12,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,245.92,Contrato Recorrente (B2B)
+940,2889,2025-05-30,Móveis,Consumidor Final (B2C),Ponta Porã,144.79,Cartão parcelado
+941,2895,2025-03-16,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,397.59,Cartão parcelado
+942,2896,2025-04-19,Eletrônicos,Consumidor Final (B2C),Dourados,333.42,Cartão parcelado
+943,2903,2025-02-02,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,366.71,Cartão à vista
+944,2913,2024-06-11,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,268.61,Contrato Recorrente (B2B)
+945,2916,2025-07-02,Beleza e Higiene,Consumidor Final (B2C),Corumbá,472.13,PIX
+946,2917,2024-06-17,Brinquedos,Consumidor Final (B2C),Campo Grande,359.08,Cartão à vista
+947,2919,2025-06-02,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,531.92,Contrato Recorrente (B2B)
+948,2927,2024-08-14,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,317.45,Contrato Recorrente (B2B)
+949,2928,2024-02-03,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,261.65,Cartão parcelado
+950,2930,2025-03-12,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,146.22,PIX
+951,2931,2025-11-10,Papelaria e Escritório,Consumidor Final (B2C),Dourados,320.2,Cartão à vista
+952,2933,2025-09-02,Casa e Decoração,Consumidor Final (B2C),Corumbá,467.65,Cartão à vista
+953,2947,2025-11-29,Ferramentas,Consumidor Final (B2C),Três Lagoas,297.94,Cartão parcelado
+954,2948,2025-01-04,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,253.55,Cartão à vista
+955,2954,2025-12-31,Brinquedos,Conta Corporativa (B2B),Campo Grande,8964.81,Boleto (B2B)
+956,2955,2025-02-10,Alimentos e Bebidas,Conta Corporativa (B2B),Três Lagoas,4495.67,Boleto (B2B)
+957,2957,2025-05-21,Beleza e Higiene,Consumidor Final (B2C),Dourados,386.94,Cartão à vista
+958,2959,2025-09-21,Brinquedos,Consumidor Final (B2C),Campo Grande,420.76,Cartão à vista
+959,2961,2025-01-24,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,333.48,Cartão à vista
+960,2969,2025-05-22,Brinquedos,Conta Corporativa (B2B),Campo Grande,5476.82,Boleto (B2B)
+961,2975,2024-06-02,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,310.77,PIX
+962,2977,2024-04-11,Móveis,Consumidor Final (B2C),Três Lagoas,278.73,PIX
+963,2978,2024-05-07,Móveis,Consumidor Final (B2C),Dourados,383.56,PIX
+964,2979,2024-09-24,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,464.62,Cartão à vista
+965,2982,2025-07-22,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,313.53,Cartão à vista
+966,2985,2024-09-01,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,431.74,Cartão parcelado
+967,2988,2025-04-06,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,7979.89,PIX
+968,2989,2025-09-14,Móveis,Consumidor Final (B2C),Campo Grande,225.04,PIX
+969,2991,2024-07-21,Ferramentas,Consumidor Final (B2C),Campo Grande,366.95,Cartão à vista
+970,2995,2025-09-02,Ferramentas,Consumidor Final (B2C),Campo Grande,301.09,Cartão parcelado
+971,2999,2024-08-18,Ferramentas,Consumidor Final (B2C),Campo Grande,394.89,PIX
+972,3005,2025-02-09,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,230.85,Cartão parcelado
+973,3008,2024-05-18,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,323.02,Cartão à vista
+974,3011,2025-09-10,Beleza e Higiene,Conta Corporativa (B2B),Campo Grande,9417.72,Cartão à vista
+975,3012,2024-09-28,Eletrônicos,Consumidor Final (B2C),Campo Grande,464.28,Cartão à vista
+976,3014,2025-09-14,Eletrônicos,Consumidor Final (B2C),Ponta Porã,337.06,PIX
+977,3019,2024-05-12,Móveis,Consumidor Final (B2C),Campo Grande,276.24,Cartão à vista
+978,3020,2024-12-01,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,292.03,Boleto (B2B)
+979,3023,2025-09-19,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,261.42,Cartão à vista
+980,3031,2025-04-13,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,441.4,Cartão parcelado
+981,3035,2025-12-06,Utilidades Domésticas,Consumidor Final (B2C),Dourados,309.0,Boleto (B2B)
+982,3042,2025-11-24,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,386.22,Cartão à vista
+983,3043,2024-05-23,Brinquedos,Consumidor Final (B2C),Campo Grande,380.67,Cartão parcelado
+984,3047,2025-07-04,Eletrônicos,Consumidor Final (B2C),Três Lagoas,279.17,Cartão parcelado
+985,3049,2025-01-29,Eletrônicos,Conta Corporativa (B2B),Ponta Porã,7037.91,Cartão parcelado
+986,3050,2025-02-19,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,177.03,PIX
+987,3052,2025-04-13,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,273.88,Cartão à vista
+988,3055,2025-10-31,Eletrônicos,Consumidor Final (B2C),Campo Grande,389.61,Cartão à vista
+989,3059,2024-09-30,Eletrônicos,Consumidor Final (B2C),Ponta Porã,276.47,Contrato Recorrente (B2B)
+990,3060,2025-01-23,Brinquedos,Consumidor Final (B2C),Campo Grande,430.91,PIX
+991,3061,2024-10-21,Brinquedos,Conta Corporativa (B2B),Campo Grande,5221.82,Cartão à vista
+992,3062,2024-11-27,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,261.12,Cartão parcelado
+993,3063,2025-06-04,Utilidades Domésticas,Consumidor Final (B2C),Dourados,430.81,Cartão à vista
+994,3067,2025-11-16,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,467.18,Cartão à vista
+995,3070,2024-02-27,Ferramentas,Conta Corporativa (B2B),Três Lagoas,50.0,Cartão à vista
+996,3071,2024-09-22,Ferramentas,Consumidor Final (B2C),Campo Grande,457.7,PIX
+997,3082,2024-09-23,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,301.68,Cartão parcelado
+998,3083,2024-03-19,Brinquedos,Consumidor Final (B2C),Dourados,300.35,PIX
+999,3085,2024-08-20,Casa e Decoração,Consumidor Final (B2C),Corumbá,332.36,Cartão parcelado
+1000,3087,2024-03-28,Brinquedos,Consumidor Final (B2C),Ponta Porã,411.73,PIX
+1001,3089,2025-09-03,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,245.77,Cartão à vista
+1002,3091,2025-07-27,Papelaria e Escritório,Consumidor Final (B2C),Dourados,289.47,PIX
+1003,3092,2024-08-06,Ferramentas,Consumidor Final (B2C),Campo Grande,312.54,Cartão parcelado
+1004,3095,2025-09-08,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,356.83,Cartão à vista
+1005,3096,2025-07-14,Casa e Decoração,Consumidor Final (B2C),Corumbá,148.12,PIX
+1006,3104,2024-08-06,Brinquedos,Consumidor Final (B2C),Campo Grande,260.81,Cartão à vista
+1007,3107,2025-04-29,Utilidades Domésticas,Conta Corporativa (B2B),Corumbá,6090.62,Contrato Recorrente (B2B)
+1008,3109,2024-06-19,Papelaria e Escritório,Consumidor Final (B2C),Dourados,477.69,PIX
+1009,3111,2024-04-09,Brinquedos,Consumidor Final (B2C),Campo Grande,206.94,Cartão parcelado
+1010,3114,2024-04-19,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,383.43,Contrato Recorrente (B2B)
+1011,3116,2025-05-30,Beleza e Higiene,Consumidor Final (B2C),Dourados,251.54,Cartão à vista
+1012,3118,2024-06-28,Papelaria e Escritório,Conta Corporativa (B2B),Ponta Porã,11097.42,Cartão parcelado
+1013,3120,2024-11-08,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,288.58,Boleto (B2B)
+1014,3121,2025-03-06,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,331.88,Contrato Recorrente (B2B)
+1015,3122,2025-04-15,Móveis,Consumidor Final (B2C),Campo Grande,415.36,Cartão à vista
+1016,3124,2024-07-10,Eletrônicos,Consumidor Final (B2C),Dourados,455.81,PIX
+1017,3127,2025-12-31,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,169.24,Cartão parcelado
+1018,3130,2024-04-08,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,478.85,PIX
+1019,3131,2025-09-11,Eletrônicos,Consumidor Final (B2C),Ponta Porã,314.12,Cartão à vista
+1020,3136,2025-06-19,Ferramentas,Conta Corporativa (B2B),Ponta Porã,10765.83,Cartão parcelado
+1021,3137,2024-09-09,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,244.61,Cartão à vista
+1022,3145,2025-06-12,Papelaria e Escritório,Consumidor Final (B2C),Dourados,359.68,Cartão parcelado
+1023,3151,2025-11-17,Ferramentas,Consumidor Final (B2C),Dourados,458.3,PIX
+1024,3152,2024-09-20,Brinquedos,Consumidor Final (B2C),Dourados,269.46,Cartão parcelado
+1025,3153,2024-02-05,Ferramentas,Consumidor Final (B2C),Dourados,389.82,PIX
+1026,3155,2024-06-25,Móveis,Consumidor Final (B2C),Campo Grande,285.21,Cartão parcelado
+1027,3156,2024-08-22,Papelaria e Escritório,Consumidor Final (B2C),Dourados,379.3,Cartão à vista
+1028,3157,2024-12-26,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,563.35,Cartão parcelado
+1029,3159,2024-05-20,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,443.3,Cartão à vista
+1030,3161,2025-10-09,Eletrônicos,Consumidor Final (B2C),Campo Grande,518.85,Cartão parcelado
+1031,3165,2024-02-26,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,465.75,Cartão parcelado
+1032,3167,2024-03-25,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,270.91,Cartão à vista
+1033,3171,2024-07-20,Casa e Decoração,Consumidor Final (B2C),Campo Grande,427.61,Cartão parcelado
+1034,3173,2025-11-02,Móveis,Consumidor Final (B2C),Campo Grande,396.09,PIX
+1035,3179,2024-09-10,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,367.91,Cartão parcelado
+1036,3180,2024-07-09,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,192.8,PIX
+1037,3181,2024-05-31,Brinquedos,Consumidor Final (B2C),Dourados,311.52,Cartão parcelado
+1038,3185,2025-08-26,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,296.47,PIX
+1039,3191,2025-05-08,Eletrônicos,Consumidor Final (B2C),Dourados,430.25,Cartão parcelado
+1040,3207,2024-01-27,Brinquedos,Conta Corporativa (B2B),Campo Grande,12202.2,Cartão parcelado
+1041,3218,2024-04-18,Ferramentas,Consumidor Final (B2C),Corumbá,314.33,PIX
+1042,3226,2025-05-06,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,337.02,Cartão à vista
+1043,3237,2025-06-29,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,430.75,Cartão à vista
+1044,3245,2025-06-24,Brinquedos,Consumidor Final (B2C),Ponta Porã,406.5,Cartão parcelado
+1045,3247,2024-03-15,Eletrônicos,Consumidor Final (B2C),Campo Grande,408.18,Boleto (B2B)
+1046,3248,2025-07-07,Papelaria e Escritório,Conta Corporativa (B2B),Campo Grande,8341.25,Cartão à vista
+1047,3250,2025-05-26,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,7341.52,Cartão à vista
+1048,3252,2025-03-26,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,286.06,Cartão à vista
+1049,3253,2024-07-10,Beleza e Higiene,Consumidor Final (B2C),Dourados,179.48,Cartão parcelado
+1050,3260,2024-04-25,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,322.23,PIX
+1051,3267,2025-08-23,Brinquedos,Consumidor Final (B2C),Ponta Porã,392.48,Contrato Recorrente (B2B)
+1052,3269,2024-04-19,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,220.9,Cartão à vista
+1053,3274,2025-10-15,Ferramentas,Consumidor Final (B2C),Dourados,292.02,Cartão à vista
+1054,3277,2025-07-02,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,264.19,Boleto (B2B)
+1055,3279,2024-04-24,Brinquedos,Conta Corporativa (B2B),Campo Grande,7383.41,Cartão à vista
+1056,3284,2024-03-31,Móveis,Consumidor Final (B2C),Campo Grande,293.29,Cartão parcelado
+1057,3285,2024-05-08,Ferramentas,Consumidor Final (B2C),Campo Grande,345.96,Cartão à vista
+1058,3288,2025-01-08,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,10147.76,Cartão à vista
+1059,3289,2024-09-20,Móveis,Consumidor Final (B2C),Ponta Porã,295.21,Cartão parcelado
+1060,3292,2025-07-06,Moda e Vestuário,Consumidor Final (B2C),Dourados,282.35,Cartão parcelado
+1061,3295,2024-10-31,Móveis,Consumidor Final (B2C),Três Lagoas,370.33,PIX
+1062,3297,2024-03-25,Ferramentas,Conta Corporativa (B2B),Campo Grande,8079.61,PIX
+1063,3302,2025-09-10,Móveis,Consumidor Final (B2C),Dourados,459.78,Cartão parcelado
+1064,3307,2024-10-01,Móveis,Consumidor Final (B2C),Três Lagoas,326.77,Boleto (B2B)
+1065,3311,2024-11-29,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,400.2,PIX
+1066,3312,2025-05-16,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,351.34,Cartão à vista
+1067,3314,2025-08-11,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,453.32,Cartão parcelado
+1068,3322,2025-07-14,Brinquedos,Consumidor Final (B2C),Dourados,399.65,PIX
+1069,3325,2024-06-18,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,346.17,Boleto (B2B)
+1070,3328,2025-06-04,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,185.61,Cartão à vista
+1071,3331,2025-03-16,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,330.42,Cartão parcelado
+1072,3332,2024-02-27,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,240.47,Cartão parcelado
+1073,3335,2025-07-03,Casa e Decoração,Consumidor Final (B2C),Campo Grande,289.32,PIX
+1074,3337,2025-05-10,Móveis,Consumidor Final (B2C),Dourados,210.58,Cartão parcelado
+1075,3338,2024-04-02,Utilidades Domésticas,Consumidor Final (B2C),Dourados,223.02,Cartão à vista
+1076,3339,2024-06-23,Móveis,Consumidor Final (B2C),Ponta Porã,401.33,PIX
+1077,3342,2024-01-16,Eletrônicos,Consumidor Final (B2C),Campo Grande,412.05,Cartão parcelado
+1078,3343,2025-02-03,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,292.65,Cartão à vista
+1079,3344,2025-04-03,Móveis,Consumidor Final (B2C),Três Lagoas,345.21,Contrato Recorrente (B2B)
+1080,3349,2024-10-29,Brinquedos,Conta Corporativa (B2B),Campo Grande,13426.21,Cartão à vista
+1081,3352,2024-08-31,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,286.41,Cartão à vista
+1082,3353,2024-06-22,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,315.34,PIX
+1083,3359,2024-04-23,Ferramentas,Consumidor Final (B2C),Campo Grande,298.54,Cartão parcelado
+1084,3360,2024-11-12,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,380.98,Cartão parcelado
+1085,3361,2024-11-02,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,379.92,PIX
+1086,3364,2024-11-16,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,418.69,Cartão à vista
+1087,3366,2024-12-15,Eletrônicos,Consumidor Final (B2C),Três Lagoas,238.53,Cartão à vista
+1088,3370,2025-08-30,Ferramentas,Consumidor Final (B2C),Campo Grande,234.47,Cartão à vista
+1089,3372,2025-06-28,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,310.52,Cartão à vista
+1090,3374,2024-04-21,Ferramentas,Consumidor Final (B2C),Ponta Porã,307.75,Boleto (B2B)
+1091,3375,2025-08-02,Eletrônicos,Consumidor Final (B2C),Campo Grande,323.57,Boleto (B2B)
+1092,3376,2024-11-03,Ferramentas,Consumidor Final (B2C),Três Lagoas,376.25,Cartão parcelado
+1093,3377,2025-08-09,Eletrônicos,Consumidor Final (B2C),Corumbá,245.05,Cartão à vista
+1094,3379,2024-08-28,Ferramentas,Consumidor Final (B2C),Dourados,379.73,Cartão à vista
+1095,3383,2024-12-04,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,306.07,Cartão parcelado
+1096,3385,2025-05-05,Casa e Decoração,Consumidor Final (B2C),Campo Grande,241.59,PIX
+1097,3386,2025-12-07,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,265.86,Boleto (B2B)
+1098,3388,2025-11-15,Ferramentas,Consumidor Final (B2C),Dourados,290.38,Cartão à vista
+1099,3389,2024-03-04,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,282.8,Cartão à vista
+1100,3390,2024-11-15,Móveis,Consumidor Final (B2C),Três Lagoas,397.74,Cartão à vista
+1101,3391,2025-07-31,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,164.34,PIX
+1102,3393,2025-10-05,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,427.92,Cartão parcelado
+1103,3394,2024-03-27,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,216.55,Cartão parcelado
+1104,3396,2025-04-18,Papelaria e Escritório,Conta Corporativa (B2B),Três Lagoas,6166.05,Contrato Recorrente (B2B)
+1105,3398,2025-03-07,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,329.72,Boleto (B2B)
+1106,3401,2024-06-30,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,313.76,Cartão parcelado
+1107,3402,2024-12-31,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,8873.68,Cartão à vista
+1108,3410,2025-10-01,Ferramentas,Consumidor Final (B2C),Corumbá,411.53,Cartão à vista
+1109,3417,2024-07-24,Brinquedos,Consumidor Final (B2C),Campo Grande,275.56,Cartão à vista
+1110,3419,2024-11-17,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,483.68,PIX
+1111,3421,2025-11-09,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,320.32,Cartão parcelado
+1112,3423,2024-11-07,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,393.67,Cartão parcelado
+1113,3430,2025-07-29,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,10480.01,Cartão à vista
+1114,3434,2025-12-31,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,188.29,PIX
+1115,3438,2024-09-18,Ferramentas,Conta Corporativa (B2B),Campo Grande,7744.58,Cartão parcelado
+1116,3440,2024-08-14,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,214.08,Cartão à vista
+1117,3443,2024-03-03,Brinquedos,Consumidor Final (B2C),Campo Grande,344.7,PIX
+1118,3451,2025-03-01,Casa e Decoração,Consumidor Final (B2C),Dourados,356.24,Contrato Recorrente (B2B)
+1119,3455,2025-10-24,Moda e Vestuário,Consumidor Final (B2C),Dourados,302.18,Cartão parcelado
+1120,3456,2025-08-10,Eletrônicos,Consumidor Final (B2C),Campo Grande,345.8,Cartão à vista
+1121,3457,2025-08-29,Eletrônicos,Consumidor Final (B2C),Campo Grande,426.07,Cartão à vista
+1122,3458,2024-04-23,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,297.38,Cartão à vista
+1123,3459,2024-07-16,Beleza e Higiene,Consumidor Final (B2C),Dourados,321.63,PIX
+1124,3461,2025-07-20,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,8833.92,PIX
+1125,3462,2025-08-19,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,203.93,Cartão parcelado
+1126,3465,2025-01-30,Ferramentas,Consumidor Final (B2C),Dourados,307.49,PIX
+1127,3466,2024-08-09,Móveis,Consumidor Final (B2C),Ponta Porã,361.51,Contrato Recorrente (B2B)
+1128,3467,2025-07-03,Casa e Decoração,Consumidor Final (B2C),Campo Grande,166.99,Cartão parcelado
+1129,3475,2024-12-16,Móveis,Consumidor Final (B2C),Campo Grande,440.82,PIX
+1130,3477,2025-12-11,Ferramentas,Consumidor Final (B2C),Dourados,254.99,Cartão parcelado
+1131,3482,2025-10-16,Móveis,Consumidor Final (B2C),Campo Grande,458.88,Cartão parcelado
+1132,3485,2025-12-28,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,359.52,Boleto (B2B)
+1133,3488,2024-07-18,Casa e Decoração,Consumidor Final (B2C),Corumbá,417.85,Cartão parcelado
+1134,3490,2024-11-09,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,310.15,Cartão à vista
+1135,3499,2024-10-19,Utilidades Domésticas,Consumidor Final (B2C),Dourados,513.8,Cartão parcelado
+1136,3504,2025-01-15,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,343.33,PIX
+1137,3515,2025-01-26,Casa e Decoração,Consumidor Final (B2C),Corumbá,359.24,Contrato Recorrente (B2B)
+1138,3516,2024-08-14,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,404.51,PIX
+1139,3519,2025-11-22,Beleza e Higiene,Conta Corporativa (B2B),Dourados,10206.7,Cartão parcelado
+1140,3522,2025-03-22,Ferramentas,Consumidor Final (B2C),Dourados,405.39,Cartão à vista
+1141,3523,2024-07-16,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,269.5,Cartão parcelado
+1142,3525,2024-05-25,Casa e Decoração,Consumidor Final (B2C),Corumbá,311.72,Cartão parcelado
+1143,3530,2024-08-24,Utilidades Domésticas,Conta Corporativa (B2B),Dourados,9622.4,Cartão à vista
+1144,3534,2025-02-04,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,357.3,Cartão à vista
+1145,3547,2024-10-16,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,399.72,PIX
+1146,3550,2024-02-25,Brinquedos,Consumidor Final (B2C),Ponta Porã,464.81,PIX
+1147,3556,2024-03-07,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,331.77,PIX
+1148,3560,2024-03-11,Beleza e Higiene,Consumidor Final (B2C),Dourados,309.52,Contrato Recorrente (B2B)
+1149,3561,2025-10-18,Móveis,Conta Corporativa (B2B),Campo Grande,1374.66,Cartão parcelado
+1150,3562,2025-06-18,Eletrônicos,Consumidor Final (B2C),Dourados,241.04,Cartão à vista
+1151,3565,2025-03-07,Ferramentas,Conta Corporativa (B2B),Dourados,8975.49,PIX
+1152,3574,2025-04-25,Beleza e Higiene,Consumidor Final (B2C),Dourados,291.05,Cartão parcelado
+1153,3578,2025-01-14,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,370.59,Cartão à vista
+1154,3587,2024-05-11,Beleza e Higiene,Consumidor Final (B2C),Dourados,205.93,Cartão parcelado
+1155,3588,2024-01-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,204.42,Cartão à vista
+1156,3591,2024-10-01,Papelaria e Escritório,Consumidor Final (B2C),Dourados,387.77,Cartão parcelado
+1157,3597,2025-06-21,Casa e Decoração,Consumidor Final (B2C),Campo Grande,280.48,PIX
+1158,3603,2025-06-06,Eletrônicos,Consumidor Final (B2C),Campo Grande,192.79,Contrato Recorrente (B2B)
+1159,3605,2025-02-09,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,10520.09,PIX
+1160,3607,2025-11-27,Moda e Vestuário,Consumidor Final (B2C),Dourados,486.19,Cartão à vista
+1161,3613,2024-08-27,Brinquedos,Consumidor Final (B2C),Campo Grande,242.82,Cartão à vista
+1162,3616,2025-06-22,Brinquedos,Consumidor Final (B2C),Três Lagoas,289.01,Cartão parcelado
+1163,3620,2025-04-07,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,385.78,Cartão à vista
+1164,3621,2025-06-02,Ferramentas,Consumidor Final (B2C),Campo Grande,331.98,Cartão parcelado
+1165,3624,2025-01-04,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,274.09,PIX
+1166,3630,2024-03-28,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,10906.6,Cartão parcelado
+1167,3633,2025-03-01,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,312.79,Boleto (B2B)
+1168,3634,2025-07-18,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,399.01,Cartão parcelado
+1169,3635,2025-11-13,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,319.34,Cartão parcelado
+1170,3638,2024-01-29,Móveis,Consumidor Final (B2C),Dourados,169.56,Cartão parcelado
+1171,3639,2024-04-12,Papelaria e Escritório,Conta Corporativa (B2B),Três Lagoas,3613.29,PIX
+1172,3641,2025-07-27,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,272.16,Boleto (B2B)
+1173,3649,2025-06-22,Móveis,Conta Corporativa (B2B),Dourados,8137.67,Contrato Recorrente (B2B)
+1174,3655,2025-01-10,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,232.38,Contrato Recorrente (B2B)
+1175,3661,2025-07-25,Móveis,Consumidor Final (B2C),Campo Grande,459.19,Contrato Recorrente (B2B)
+1176,3664,2024-12-07,Casa e Decoração,Conta Corporativa (B2B),Ponta Porã,7916.6,PIX
+1177,3667,2024-10-18,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,238.21,Cartão parcelado
+1178,3671,2025-11-09,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,240.74,Cartão à vista
+1179,3675,2024-08-13,Ferramentas,Consumidor Final (B2C),Campo Grande,314.57,PIX
+1180,3682,2025-06-08,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,399.87,PIX
+1181,3684,2024-07-25,Eletrônicos,Consumidor Final (B2C),Campo Grande,235.34,PIX
+1182,3688,2024-10-19,Brinquedos,Conta Corporativa (B2B),Ponta Porã,5372.18,Cartão parcelado
+1183,3691,2024-04-09,Moda e Vestuário,Conta Corporativa (B2B),Ponta Porã,1642.53,Boleto (B2B)
+1184,3692,2025-12-17,Brinquedos,Conta Corporativa (B2B),Corumbá,9364.56,PIX
+1185,3698,2024-12-12,Brinquedos,Consumidor Final (B2C),Ponta Porã,365.41,Cartão à vista
+1186,3701,2024-06-21,Casa e Decoração,Conta Corporativa (B2B),Três Lagoas,7879.21,Cartão à vista
+1187,3703,2024-06-28,Beleza e Higiene,Conta Corporativa (B2B),Corumbá,8966.34,PIX
+1188,3704,2025-12-31,Móveis,Consumidor Final (B2C),Ponta Porã,210.69,Cartão parcelado
+1189,3707,2025-05-18,Brinquedos,Consumidor Final (B2C),Três Lagoas,349.57,Cartão à vista
+1190,3710,2024-10-24,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,344.01,Cartão parcelado
+1191,3713,2025-10-27,Móveis,Consumidor Final (B2C),Campo Grande,294.54,Cartão à vista
+1192,3715,2024-06-11,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,387.27,Boleto (B2B)
+1193,3719,2025-01-13,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,310.9,Cartão à vista
+1194,3724,2025-08-06,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,399.56,Cartão parcelado
+1195,3727,2025-11-04,Eletrônicos,Conta Corporativa (B2B),Campo Grande,11221.35,Cartão parcelado
+1196,3728,2024-07-06,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,364.78,Boleto (B2B)
+1197,3729,2024-07-30,Ferramentas,Consumidor Final (B2C),Dourados,626.25,PIX
+1198,3734,2024-02-26,Móveis,Consumidor Final (B2C),Campo Grande,365.6,Cartão à vista
+1199,3735,2024-10-02,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,336.48,PIX
+1200,3740,2024-09-20,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,9214.83,PIX
+1201,3741,2025-07-15,Ferramentas,Conta Corporativa (B2B),Ponta Porã,9759.48,Cartão à vista
+1202,3742,2024-12-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,296.42,PIX
+1203,3743,2025-01-13,Eletrônicos,Consumidor Final (B2C),Campo Grande,552.85,PIX
+1204,3744,2024-08-07,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,439.87,PIX
+1205,3748,2024-10-19,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,273.66,Contrato Recorrente (B2B)
+1206,3751,2024-03-21,Ferramentas,Consumidor Final (B2C),Campo Grande,418.37,Cartão parcelado
+1207,3753,2025-11-06,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,364.32,PIX
+1208,3754,2024-12-11,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,275.73,Cartão à vista
+1209,3755,2025-02-24,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,342.26,PIX
+1210,3758,2024-07-26,Móveis,Consumidor Final (B2C),Campo Grande,504.72,PIX
+1211,3759,2024-05-28,Casa e Decoração,Consumidor Final (B2C),Campo Grande,385.22,Cartão parcelado
+1212,3763,2024-05-06,Casa e Decoração,Consumidor Final (B2C),Campo Grande,425.67,PIX
+1213,3767,2025-07-02,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,278.79,Cartão parcelado
+1214,3772,2024-03-22,Casa e Decoração,Consumidor Final (B2C),Dourados,229.91,PIX
+1215,3777,2024-04-03,Casa e Decoração,Consumidor Final (B2C),Campo Grande,227.21,Cartão parcelado
+1216,3780,2024-07-25,Brinquedos,Consumidor Final (B2C),Campo Grande,371.94,Cartão parcelado
+1217,3781,2025-04-13,Brinquedos,Consumidor Final (B2C),Corumbá,290.5,Cartão à vista
+1218,3785,2024-12-01,Beleza e Higiene,Conta Corporativa (B2B),Campo Grande,9061.51,Cartão parcelado
+1219,3786,2024-10-22,Casa e Decoração,Conta Corporativa (B2B),Ponta Porã,13793.36,Cartão parcelado
+1220,3788,2024-04-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,495.57,PIX
+1221,3791,2025-05-28,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,299.66,Cartão parcelado
+1222,3794,2025-02-03,Brinquedos,Consumidor Final (B2C),Campo Grande,410.46,Cartão à vista
+1223,3795,2025-09-21,Ferramentas,Consumidor Final (B2C),Ponta Porã,224.99,Cartão à vista
+1224,3797,2025-11-25,Moda e Vestuário,Conta Corporativa (B2B),Ponta Porã,9057.02,PIX
+1225,3800,2025-08-20,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,326.26,PIX
+1226,3801,2025-08-25,Casa e Decoração,Consumidor Final (B2C),Corumbá,325.77,Cartão à vista
+1227,3806,2024-09-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,331.82,Cartão parcelado
+1228,3809,2025-11-11,Beleza e Higiene,Consumidor Final (B2C),Dourados,268.4,Cartão parcelado
+1229,3813,2024-08-21,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,332.36,Cartão à vista
+1230,3817,2025-07-30,Ferramentas,Consumidor Final (B2C),Ponta Porã,342.56,Cartão parcelado
+1231,3824,2024-11-03,Moda e Vestuário,Conta Corporativa (B2B),Três Lagoas,10298.82,Cartão à vista
+1232,3830,2024-02-23,Beleza e Higiene,Consumidor Final (B2C),Corumbá,411.6,Cartão à vista
+1233,3832,2024-04-10,Móveis,Consumidor Final (B2C),Campo Grande,392.57,Cartão parcelado
+1234,3837,2025-07-10,Móveis,Consumidor Final (B2C),Ponta Porã,450.44,Cartão parcelado
+1235,3838,2024-06-21,Móveis,Conta Corporativa (B2B),Campo Grande,8427.76,PIX
+1236,3840,2024-09-21,Eletrônicos,Conta Corporativa (B2B),Campo Grande,6744.65,PIX
+1237,3844,2024-10-06,Brinquedos,Consumidor Final (B2C),Corumbá,235.49,Cartão parcelado
+1238,3845,2025-07-30,Móveis,Consumidor Final (B2C),Campo Grande,414.44,Cartão parcelado
+1239,3846,2025-07-06,Móveis,Consumidor Final (B2C),Três Lagoas,389.55,Cartão parcelado
+1240,3849,2024-10-19,Eletrônicos,Consumidor Final (B2C),Campo Grande,262.83,Boleto (B2B)
+1241,3858,2024-12-03,Ferramentas,Consumidor Final (B2C),Dourados,325.17,Contrato Recorrente (B2B)
+1242,3861,2025-01-15,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,288.95,PIX
+1243,3866,2025-06-12,Utilidades Domésticas,Consumidor Final (B2C),Dourados,366.3,Cartão parcelado
+1244,3871,2025-09-26,Móveis,Consumidor Final (B2C),Ponta Porã,330.32,Boleto (B2B)
+1245,3872,2025-11-13,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,520.84,Cartão à vista
+1246,3873,2025-05-18,Brinquedos,Consumidor Final (B2C),Campo Grande,380.47,PIX
+1247,3878,2025-06-14,Ferramentas,Consumidor Final (B2C),Campo Grande,105.5,Cartão parcelado
+1248,3879,2024-09-20,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,357.08,Cartão à vista
+1249,3881,2025-10-24,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,418.5,Cartão à vista
+1250,3886,2025-04-04,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,286.66,Cartão parcelado
+1251,3887,2025-06-11,Ferramentas,Consumidor Final (B2C),Dourados,242.0,Cartão à vista
+1252,3892,2025-02-17,Móveis,Consumidor Final (B2C),Campo Grande,403.03,Cartão à vista
+1253,3894,2025-09-28,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,387.07,Cartão parcelado
+1254,3896,2025-05-28,Brinquedos,Consumidor Final (B2C),Dourados,341.09,PIX
+1255,3898,2024-02-14,Utilidades Domésticas,Consumidor Final (B2C),Dourados,273.6,Cartão à vista
+1256,3900,2024-10-12,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,7789.86,PIX
+1257,3903,2024-09-02,Casa e Decoração,Consumidor Final (B2C),Campo Grande,349.37,PIX
+1258,3906,2024-07-23,Papelaria e Escritório,Consumidor Final (B2C),Dourados,483.82,Cartão parcelado
+1259,3907,2024-04-01,Casa e Decoração,Consumidor Final (B2C),Campo Grande,243.63,Cartão à vista
+1260,3912,2024-07-27,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,371.5,Cartão à vista
+1261,3914,2024-01-12,Ferramentas,Consumidor Final (B2C),Campo Grande,432.71,Cartão parcelado
+1262,3915,2024-08-17,Móveis,Consumidor Final (B2C),Campo Grande,261.17,PIX
+1263,3917,2025-04-27,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,146.66,Cartão à vista
+1264,3919,2024-03-13,Ferramentas,Consumidor Final (B2C),Campo Grande,249.35,PIX
+1265,3921,2025-01-20,Eletrônicos,Consumidor Final (B2C),Três Lagoas,380.81,Cartão parcelado
+1266,3926,2024-11-29,Beleza e Higiene,Consumidor Final (B2C),Dourados,280.25,Boleto (B2B)
+1267,3928,2025-06-30,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,339.31,Cartão parcelado
+1268,3929,2024-09-23,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,6179.12,PIX
+1269,3933,2025-09-21,Ferramentas,Consumidor Final (B2C),Campo Grande,357.9,PIX
+1270,3937,2025-04-11,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,402.8,Cartão à vista
+1271,3940,2025-03-31,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,364.91,Cartão à vista
+1272,3942,2025-11-17,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,203.9,Cartão à vista
+1273,3944,2025-01-16,Casa e Decoração,Consumidor Final (B2C),Campo Grande,534.83,PIX
+1274,3951,2024-03-06,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,424.78,Cartão parcelado
+1275,3959,2024-03-30,Eletrônicos,Conta Corporativa (B2B),Três Lagoas,9220.65,Cartão à vista
+1276,3961,2025-01-18,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,344.31,Cartão parcelado
+1277,3962,2025-08-25,Ferramentas,Consumidor Final (B2C),Campo Grande,334.33,Cartão à vista
+1278,3966,2024-06-24,Casa e Decoração,Consumidor Final (B2C),Campo Grande,431.16,Cartão à vista
+1279,3968,2025-06-06,Papelaria e Escritório,Consumidor Final (B2C),Dourados,242.78,Cartão à vista
+1280,3970,2024-04-21,Eletrônicos,Consumidor Final (B2C),Ponta Porã,366.34,Cartão à vista
+1281,3973,2024-06-25,Brinquedos,Consumidor Final (B2C),Dourados,419.1,Cartão à vista
+1282,3974,2024-11-01,Eletrônicos,Consumidor Final (B2C),Campo Grande,552.9,Cartão parcelado
+1283,3975,2025-02-19,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,200.96,Cartão parcelado
+1284,3981,2025-03-26,Ferramentas,Consumidor Final (B2C),Dourados,459.03,Cartão à vista
+1285,3984,2024-10-18,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,329.48,Cartão à vista
+1286,3986,2025-11-20,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,385.47,Boleto (B2B)
+1287,3987,2024-07-12,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,312.47,Cartão à vista
+1288,3991,2025-10-23,Ferramentas,Consumidor Final (B2C),Dourados,416.51,Cartão à vista
+1289,3994,2025-02-10,Eletrônicos,Conta Corporativa (B2B),Dourados,12657.95,Cartão à vista
+1290,3998,2025-07-13,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,232.44,Cartão parcelado
+1291,3999,2025-04-01,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,453.34,Cartão à vista
+1292,4001,2025-06-12,Casa e Decoração,Conta Corporativa (B2B),Três Lagoas,8714.03,Contrato Recorrente (B2B)
+1293,4002,2025-12-31,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,241.45,Cartão à vista
+1294,4003,2024-07-30,Ferramentas,Consumidor Final (B2C),Dourados,433.43,Cartão à vista
+1295,4008,2025-07-09,Móveis,Consumidor Final (B2C),Campo Grande,246.92,PIX
+1296,4016,2024-01-29,Ferramentas,Consumidor Final (B2C),Dourados,303.63,Cartão à vista
+1297,4022,2025-03-06,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,300.12,Cartão parcelado
+1298,4026,2025-03-03,Ferramentas,Consumidor Final (B2C),Ponta Porã,136.14,Cartão parcelado
+1299,4027,2025-01-13,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,328.8,Cartão à vista
+1300,4028,2025-10-08,Móveis,Consumidor Final (B2C),Ponta Porã,471.45,PIX
+1301,4029,2025-02-06,Utilidades Domésticas,Consumidor Final (B2C),Dourados,332.01,Cartão parcelado
+1302,4030,2025-07-17,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,5859.2,Cartão parcelado
+1303,4034,2024-10-10,Ferramentas,Consumidor Final (B2C),Campo Grande,80.51,Cartão parcelado
+1304,4042,2025-04-24,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,333.95,Cartão à vista
+1305,4044,2025-09-27,Beleza e Higiene,Conta Corporativa (B2B),Campo Grande,8464.71,PIX
+1306,4051,2025-11-21,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,208.91,Cartão parcelado
+1307,4054,2024-01-26,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,237.0,Boleto (B2B)
+1308,4055,2025-06-27,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,417.96,Cartão parcelado
+1309,4063,2024-03-11,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,329.29,PIX
+1310,4065,2025-04-17,Brinquedos,Consumidor Final (B2C),Dourados,311.03,Cartão à vista
+1311,4074,2024-03-25,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,504.99,Cartão à vista
+1312,4076,2024-05-11,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,422.78,Contrato Recorrente (B2B)
+1313,4085,2024-06-06,Casa e Decoração,Consumidor Final (B2C),Dourados,420.33,Cartão à vista
+1314,4087,2024-08-17,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,10883.93,PIX
+1315,4088,2025-06-11,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,264.34,Cartão à vista
+1316,4091,2024-05-19,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,258.97,Cartão à vista
+1317,4095,2025-07-31,Beleza e Higiene,Consumidor Final (B2C),Ponta Porã,404.45,PIX
+1318,4099,2025-03-16,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,382.17,PIX
+1319,4101,2024-01-28,Brinquedos,Conta Corporativa (B2B),Ponta Porã,9614.83,PIX
+1320,4102,2024-12-27,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,318.59,Boleto (B2B)
+1321,4103,2024-06-16,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,261.82,Cartão parcelado
+1322,4106,2024-08-30,Moda e Vestuário,Consumidor Final (B2C),Corumbá,341.13,Cartão parcelado
+1323,4108,2025-02-20,Brinquedos,Conta Corporativa (B2B),Campo Grande,6467.83,PIX
+1324,4109,2024-04-30,Ferramentas,Consumidor Final (B2C),Ponta Porã,332.48,Cartão parcelado
+1325,4110,2025-10-05,Beleza e Higiene,Consumidor Final (B2C),Dourados,378.79,Contrato Recorrente (B2B)
+1326,4112,2025-06-13,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,415.37,Cartão parcelado
+1327,4119,2025-04-20,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,257.42,Cartão à vista
+1328,4120,2025-05-23,Moda e Vestuário,Consumidor Final (B2C),Corumbá,374.84,Cartão parcelado
+1329,4122,2025-03-31,Móveis,Consumidor Final (B2C),Ponta Porã,407.98,Cartão parcelado
+1330,4123,2025-02-21,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,237.24,Cartão parcelado
+1331,4124,2025-02-09,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,392.4,Cartão parcelado
+1332,4125,2024-02-18,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,340.0,Boleto (B2B)
+1333,4132,2024-07-27,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,345.78,Cartão à vista
+1334,4136,2025-04-07,Casa e Decoração,Consumidor Final (B2C),Campo Grande,145.9,Cartão parcelado
+1335,4141,2024-02-08,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,288.48,Boleto (B2B)
+1336,4148,2025-10-21,Beleza e Higiene,Consumidor Final (B2C),Dourados,385.71,Boleto (B2B)
+1337,4149,2024-10-10,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,322.95,Cartão à vista
+1338,4153,2025-02-14,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,259.42,PIX
+1339,4155,2025-09-15,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,318.85,Cartão parcelado
+1340,4156,2025-01-09,Casa e Decoração,Consumidor Final (B2C),Corumbá,504.77,Contrato Recorrente (B2B)
+1341,4157,2024-07-29,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,288.17,PIX
+1342,4158,2024-04-22,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,260.03,Cartão parcelado
+1343,4160,2025-03-31,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,525.29,PIX
+1344,4169,2025-09-27,Alimentos e Bebidas,Conta Corporativa (B2B),Três Lagoas,6853.47,Contrato Recorrente (B2B)
+1345,4171,2025-12-31,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,257.73,Cartão parcelado
+1346,4172,2024-01-30,Alimentos e Bebidas,Conta Corporativa (B2B),Ponta Porã,3340.08,Cartão parcelado
+1347,4173,2025-12-13,Móveis,Consumidor Final (B2C),Corumbá,314.29,PIX
+1348,4180,2025-03-21,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,316.19,PIX
+1349,4181,2025-08-20,Utilidades Domésticas,Conta Corporativa (B2B),Ponta Porã,10927.56,PIX
+1350,4183,2024-07-08,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,382.01,Cartão parcelado
+1351,4186,2025-06-18,Casa e Decoração,Consumidor Final (B2C),Campo Grande,310.52,Cartão parcelado
+1352,4189,2024-09-05,Eletrônicos,Consumidor Final (B2C),Ponta Porã,295.07,PIX
+1353,4191,2024-03-29,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,250.75,Contrato Recorrente (B2B)
+1354,4194,2025-01-09,Moda e Vestuário,Consumidor Final (B2C),Dourados,216.9,Boleto (B2B)
+1355,4196,2024-05-07,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,381.97,PIX
+1356,4198,2025-05-03,Eletrônicos,Consumidor Final (B2C),Dourados,459.53,Cartão parcelado
+1357,4199,2024-10-19,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,351.22,PIX
+1358,4201,2025-09-04,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,323.71,Cartão à vista
+1359,4206,2024-06-10,Moda e Vestuário,Conta Corporativa (B2B),Ponta Porã,8396.38,Cartão parcelado
+1360,4209,2025-08-21,Eletrônicos,Consumidor Final (B2C),Campo Grande,362.49,PIX
+1361,4210,2024-04-27,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,276.2,Cartão à vista
+1362,4213,2024-03-09,Móveis,Consumidor Final (B2C),Campo Grande,306.99,Cartão parcelado
+1363,4218,2025-12-31,Moda e Vestuário,Consumidor Final (B2C),Corumbá,328.22,Cartão à vista
+1364,4220,2024-03-01,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,185.34,PIX
+1365,4221,2024-04-15,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,314.28,Cartão parcelado
+1366,4222,2025-06-20,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,228.26,Cartão parcelado
+1367,4235,2025-12-10,Ferramentas,Consumidor Final (B2C),Campo Grande,334.76,Cartão parcelado
+1368,4236,2025-06-08,Ferramentas,Consumidor Final (B2C),Dourados,277.13,Cartão parcelado
+1369,4242,2025-06-16,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,151.51,PIX
+1370,4244,2025-07-25,Ferramentas,Consumidor Final (B2C),Corumbá,456.27,Cartão parcelado
+1371,4245,2025-11-21,Brinquedos,Consumidor Final (B2C),Dourados,281.12,Cartão parcelado
+1372,4250,2024-09-25,Eletrônicos,Consumidor Final (B2C),Corumbá,312.95,PIX
+1373,4256,2024-10-18,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,242.55,PIX
+1374,4257,2024-09-06,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,368.34,Cartão à vista
+1375,4259,2025-10-28,Móveis,Conta Corporativa (B2B),Campo Grande,10057.09,Cartão parcelado
+1376,4262,2024-05-10,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,443.29,Cartão parcelado
+1377,4273,2025-10-01,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,475.32,PIX
+1378,4274,2025-02-09,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,352.33,Cartão à vista
+1379,4275,2025-01-03,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,442.79,Cartão parcelado
+1380,4278,2025-10-18,Utilidades Domésticas,Conta Corporativa (B2B),Dourados,9673.35,Cartão à vista
+1381,4279,2025-03-17,Eletrônicos,Consumidor Final (B2C),Corumbá,411.13,Boleto (B2B)
+1382,4281,2024-08-06,Utilidades Domésticas,Consumidor Final (B2C),Dourados,194.23,Boleto (B2B)
+1383,4285,2024-11-21,Móveis,Consumidor Final (B2C),Campo Grande,271.43,Contrato Recorrente (B2B)
+1384,4287,2024-04-09,Moda e Vestuário,Conta Corporativa (B2B),Dourados,8596.85,PIX
+1385,4299,2024-03-29,Eletrônicos,Consumidor Final (B2C),Campo Grande,261.08,PIX
+1386,4303,2024-04-19,Papelaria e Escritório,Consumidor Final (B2C),Dourados,299.41,PIX
+1387,4304,2024-07-30,Brinquedos,Consumidor Final (B2C),Campo Grande,219.26,Cartão parcelado
+1388,4305,2024-02-11,Eletrônicos,Consumidor Final (B2C),Campo Grande,196.89,PIX
+1389,4307,2024-12-10,Eletrônicos,Consumidor Final (B2C),Ponta Porã,417.63,PIX
+1390,4309,2024-02-22,Eletrônicos,Consumidor Final (B2C),Campo Grande,230.89,PIX
+1391,4312,2024-06-17,Casa e Decoração,Consumidor Final (B2C),Corumbá,309.02,Boleto (B2B)
+1392,4315,2025-07-26,Alimentos e Bebidas,Conta Corporativa (B2B),Campo Grande,12165.57,Boleto (B2B)
+1393,4328,2025-07-26,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,263.74,Cartão parcelado
+1394,4330,2025-02-24,Casa e Decoração,Consumidor Final (B2C),Campo Grande,357.41,Cartão à vista
+1395,4332,2024-04-04,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,344.57,Cartão parcelado
+1396,4334,2025-04-11,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,308.08,Cartão à vista
+1397,4336,2024-12-22,Eletrônicos,Consumidor Final (B2C),Campo Grande,538.44,Contrato Recorrente (B2B)
+1398,4340,2024-04-15,Ferramentas,Consumidor Final (B2C),Campo Grande,351.41,Contrato Recorrente (B2B)
+1399,4341,2025-09-28,Ferramentas,Consumidor Final (B2C),Campo Grande,224.24,PIX
+1400,4346,2025-10-14,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,374.17,PIX
+1401,4350,2025-09-21,Ferramentas,Conta Corporativa (B2B),Dourados,7063.31,Cartão parcelado
+1402,4352,2025-01-29,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,430.95,Boleto (B2B)
+1403,4353,2025-11-11,Casa e Decoração,Consumidor Final (B2C),Campo Grande,276.0,Boleto (B2B)
+1404,4357,2024-04-12,Ferramentas,Consumidor Final (B2C),Três Lagoas,341.37,Cartão à vista
+1405,4358,2025-09-10,Eletrônicos,Consumidor Final (B2C),Campo Grande,213.27,Cartão à vista
+1406,4359,2025-05-23,Casa e Decoração,Consumidor Final (B2C),Dourados,469.75,Cartão à vista
+1407,4363,2025-10-27,Eletrônicos,Consumidor Final (B2C),Campo Grande,337.12,PIX
+1408,4367,2024-04-21,Alimentos e Bebidas,Conta Corporativa (B2B),Três Lagoas,7047.21,Cartão à vista
+1409,4368,2024-09-09,Brinquedos,Conta Corporativa (B2B),Três Lagoas,7493.33,Cartão à vista
+1410,4372,2024-04-06,Alimentos e Bebidas,Conta Corporativa (B2B),Dourados,8418.13,Cartão parcelado
+1411,4374,2025-01-19,Eletrônicos,Consumidor Final (B2C),Ponta Porã,356.64,PIX
+1412,4376,2025-02-24,Casa e Decoração,Consumidor Final (B2C),Dourados,245.04,Contrato Recorrente (B2B)
+1413,4383,2024-11-13,Beleza e Higiene,Consumidor Final (B2C),Dourados,313.44,PIX
+1414,4384,2025-12-10,Casa e Decoração,Consumidor Final (B2C),Campo Grande,307.04,Cartão parcelado
+1415,4389,2025-01-31,Beleza e Higiene,Conta Corporativa (B2B),Campo Grande,6075.54,Cartão à vista
+1416,4391,2025-02-02,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,337.11,Cartão parcelado
+1417,4392,2025-07-09,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,388.14,Cartão à vista
+1418,4396,2024-11-14,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,363.83,Cartão parcelado
+1419,4407,2024-10-24,Móveis,Consumidor Final (B2C),Três Lagoas,311.08,Cartão à vista
+1420,4408,2024-12-03,Casa e Decoração,Consumidor Final (B2C),Dourados,278.52,Cartão parcelado
+1421,4411,2025-01-26,Ferramentas,Consumidor Final (B2C),Dourados,483.3,Cartão à vista
+1422,4413,2024-05-13,Móveis,Conta Corporativa (B2B),Campo Grande,10925.95,Cartão parcelado
+1423,4416,2025-09-12,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,312.29,Cartão à vista
+1424,4417,2025-03-22,Ferramentas,Consumidor Final (B2C),Campo Grande,346.09,PIX
+1425,4422,2025-04-14,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,185.25,PIX
+1426,4424,2024-04-11,Utilidades Domésticas,Consumidor Final (B2C),Dourados,185.57,Cartão parcelado
+1427,4425,2025-11-02,Ferramentas,Conta Corporativa (B2B),Dourados,7948.28,PIX
+1428,4432,2024-06-02,Moda e Vestuário,Consumidor Final (B2C),Dourados,417.26,Contrato Recorrente (B2B)
+1429,4437,2024-07-16,Brinquedos,Consumidor Final (B2C),Campo Grande,329.02,Cartão parcelado
+1430,4442,2025-06-01,Móveis,Consumidor Final (B2C),Ponta Porã,319.73,PIX
+1431,4448,2024-09-19,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,462.26,Cartão parcelado
+1432,4451,2025-11-02,Papelaria e Escritório,Consumidor Final (B2C),Dourados,205.36,Cartão parcelado
+1433,4463,2025-02-08,Brinquedos,Consumidor Final (B2C),Dourados,254.79,Cartão à vista
+1434,4469,2024-06-13,Casa e Decoração,Consumidor Final (B2C),Campo Grande,361.44,Cartão à vista
+1435,4470,2025-02-21,Casa e Decoração,Consumidor Final (B2C),Campo Grande,287.5,PIX
+1436,4475,2025-02-13,Utilidades Domésticas,Consumidor Final (B2C),Ponta Porã,291.65,Cartão à vista
+1437,4484,2024-11-26,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,237.93,PIX
+1438,4488,2025-08-11,Alimentos e Bebidas,Consumidor Final (B2C),Corumbá,401.76,PIX
+1439,4489,2025-02-21,Papelaria e Escritório,Consumidor Final (B2C),Dourados,394.91,Contrato Recorrente (B2B)
+1440,4497,2025-10-07,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,314.14,PIX
+1441,4502,2025-11-25,Ferramentas,Consumidor Final (B2C),Campo Grande,318.72,Cartão à vista
+1442,4503,2024-05-29,Brinquedos,Consumidor Final (B2C),Campo Grande,86.33,PIX
+1443,4505,2024-02-26,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,409.9,Cartão parcelado
+1444,4506,2025-05-06,Eletrônicos,Consumidor Final (B2C),Campo Grande,220.93,Boleto (B2B)
+1445,4509,2025-04-28,Brinquedos,Consumidor Final (B2C),Campo Grande,262.87,PIX
+1446,4515,2024-12-09,Eletrônicos,Consumidor Final (B2C),Ponta Porã,202.07,Cartão parcelado
+1447,4517,2024-01-20,Ferramentas,Consumidor Final (B2C),Campo Grande,381.65,PIX
+1448,4524,2025-05-23,Brinquedos,Consumidor Final (B2C),Dourados,256.61,Cartão parcelado
+1449,4530,2024-10-09,Alimentos e Bebidas,Conta Corporativa (B2B),Três Lagoas,9662.21,Cartão parcelado
+1450,4533,2025-08-25,Eletrônicos,Consumidor Final (B2C),Três Lagoas,429.77,PIX
+1451,4536,2025-04-25,Ferramentas,Consumidor Final (B2C),Corumbá,236.97,Cartão à vista
+1452,4537,2025-08-09,Eletrônicos,Consumidor Final (B2C),Campo Grande,430.73,PIX
+1453,4540,2024-12-08,Móveis,Consumidor Final (B2C),Campo Grande,380.63,Cartão à vista
+1454,4541,2024-10-27,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,154.77,Boleto (B2B)
+1455,4542,2025-01-10,Ferramentas,Consumidor Final (B2C),Dourados,378.45,Contrato Recorrente (B2B)
+1456,4545,2025-11-14,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,266.05,PIX
+1457,4548,2024-02-19,Brinquedos,Consumidor Final (B2C),Ponta Porã,235.39,PIX
+1458,4550,2024-10-12,Papelaria e Escritório,Conta Corporativa (B2B),Ponta Porã,9268.25,Contrato Recorrente (B2B)
+1459,4553,2024-01-21,Móveis,Consumidor Final (B2C),Corumbá,238.16,Cartão à vista
+1460,4554,2025-06-09,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,383.6,Cartão à vista
+1461,4558,2025-02-22,Casa e Decoração,Consumidor Final (B2C),Corumbá,297.06,Cartão parcelado
+1462,4563,2024-12-17,Brinquedos,Consumidor Final (B2C),Dourados,316.51,Cartão à vista
+1463,4567,2024-12-31,Utilidades Domésticas,Consumidor Final (B2C),Dourados,404.6,Contrato Recorrente (B2B)
+1464,4568,2025-11-03,Alimentos e Bebidas,Conta Corporativa (B2B),Ponta Porã,7635.22,Cartão à vista
+1465,4570,2025-10-14,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,379.11,Cartão parcelado
+1466,4572,2024-04-04,Eletrônicos,Consumidor Final (B2C),Campo Grande,388.65,Cartão parcelado
+1467,4573,2025-12-31,Móveis,Consumidor Final (B2C),Dourados,268.53,Cartão à vista
+1468,4580,2024-05-28,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,406.98,Cartão à vista
+1469,4581,2025-01-30,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,414.02,Cartão à vista
+1470,4585,2024-07-07,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,237.19,Cartão à vista
+1471,4586,2025-12-30,Moda e Vestuário,Consumidor Final (B2C),Dourados,264.0,Contrato Recorrente (B2B)
+1472,4588,2025-08-19,Brinquedos,Consumidor Final (B2C),Campo Grande,260.73,Cartão à vista
+1473,4593,2025-03-18,Ferramentas,Consumidor Final (B2C),Campo Grande,349.77,Cartão à vista
+1474,4598,2025-12-31,Brinquedos,Consumidor Final (B2C),Campo Grande,236.45,PIX
+1475,4601,2025-03-13,Moda e Vestuário,Consumidor Final (B2C),Dourados,225.94,Cartão parcelado
+1476,4611,2024-04-07,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,196.86,PIX
+1477,4613,2024-12-25,Casa e Decoração,Consumidor Final (B2C),Dourados,221.97,PIX
+1478,4614,2025-10-15,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,278.83,Contrato Recorrente (B2B)
+1479,4616,2025-12-08,Móveis,Consumidor Final (B2C),Três Lagoas,390.18,PIX
+1480,4617,2025-05-28,Moda e Vestuário,Consumidor Final (B2C),Três Lagoas,321.85,Cartão à vista
+1481,4627,2025-03-03,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,161.27,Cartão parcelado
+1482,4633,2025-02-11,Ferramentas,Consumidor Final (B2C),Campo Grande,310.31,Cartão parcelado
+1483,4635,2024-08-15,Ferramentas,Consumidor Final (B2C),Ponta Porã,391.83,Cartão parcelado
+1484,4636,2025-12-31,Casa e Decoração,Conta Corporativa (B2B),Ponta Porã,7563.77,Cartão à vista
+1485,4644,2024-06-11,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,242.43,Cartão à vista
+1486,4648,2025-12-30,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,374.83,PIX
+1487,4652,2025-05-04,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,307.47,Cartão à vista
+1488,4656,2025-08-11,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,191.47,Cartão à vista
+1489,4658,2025-01-17,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,358.92,Cartão parcelado
+1490,4659,2025-10-16,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,255.87,PIX
+1491,4661,2025-05-11,Eletrônicos,Consumidor Final (B2C),Campo Grande,203.86,Boleto (B2B)
+1492,4663,2025-05-02,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,428.17,Cartão parcelado
+1493,4664,2025-12-31,Ferramentas,Consumidor Final (B2C),Dourados,356.91,PIX
+1494,4668,2024-12-24,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,114.57,Cartão à vista
+1495,4671,2025-08-29,Utilidades Domésticas,Consumidor Final (B2C),Dourados,271.7,Cartão parcelado
+1496,4673,2025-04-06,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,391.75,Cartão à vista
+1497,4674,2025-02-03,Ferramentas,Consumidor Final (B2C),Campo Grande,257.22,Cartão parcelado
+1498,4675,2024-08-12,Ferramentas,Consumidor Final (B2C),Campo Grande,322.41,Boleto (B2B)
+1499,4679,2024-12-17,Móveis,Conta Corporativa (B2B),Campo Grande,11433.46,Cartão à vista
+1500,4681,2025-01-21,Casa e Decoração,Consumidor Final (B2C),Campo Grande,211.36,PIX
+1501,4682,2025-12-24,Utilidades Domésticas,Conta Corporativa (B2B),Campo Grande,6646.95,PIX
+1502,4689,2024-05-16,Eletrônicos,Consumidor Final (B2C),Campo Grande,366.93,PIX
+1503,4690,2025-06-06,Ferramentas,Consumidor Final (B2C),Ponta Porã,327.55,Cartão à vista
+1504,4697,2025-04-24,Ferramentas,Consumidor Final (B2C),Três Lagoas,425.05,Cartão à vista
+1505,4702,2025-10-15,Brinquedos,Consumidor Final (B2C),Três Lagoas,184.76,Cartão à vista
+1506,4703,2025-04-11,Ferramentas,Consumidor Final (B2C),Corumbá,284.09,Cartão à vista
+1507,4709,2025-02-17,Eletrônicos,Consumidor Final (B2C),Campo Grande,364.12,PIX
+1508,4711,2025-12-31,Moda e Vestuário,Consumidor Final (B2C),Corumbá,371.13,Cartão parcelado
+1509,4717,2024-06-25,Ferramentas,Consumidor Final (B2C),Campo Grande,359.45,PIX
+1510,4718,2024-08-28,Ferramentas,Consumidor Final (B2C),Campo Grande,319.71,Cartão parcelado
+1511,4721,2024-10-30,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,290.21,Cartão à vista
+1512,4722,2025-03-18,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,183.53,PIX
+1513,4729,2024-10-29,Brinquedos,Consumidor Final (B2C),Dourados,358.73,PIX
+1514,4730,2024-03-25,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,171.13,Cartão à vista
+1515,4731,2025-11-13,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,311.63,Boleto (B2B)
+1516,4735,2024-02-05,Casa e Decoração,Consumidor Final (B2C),Campo Grande,316.88,Cartão parcelado
+1517,4736,2025-10-10,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,303.64,PIX
+1518,4739,2024-07-15,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,258.6,Cartão à vista
+1519,4745,2025-12-29,Alimentos e Bebidas,Conta Corporativa (B2B),Ponta Porã,10385.06,Cartão parcelado
+1520,4746,2024-11-27,Papelaria e Escritório,Consumidor Final (B2C),Dourados,306.5,Contrato Recorrente (B2B)
+1521,4751,2024-08-14,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,229.12,Boleto (B2B)
+1522,4757,2024-02-21,Moda e Vestuário,Consumidor Final (B2C),Dourados,176.87,Cartão à vista
+1523,4760,2025-11-19,Casa e Decoração,Consumidor Final (B2C),Corumbá,239.04,Boleto (B2B)
+1524,4766,2025-07-10,Brinquedos,Consumidor Final (B2C),Ponta Porã,394.68,Cartão à vista
+1525,4769,2024-02-05,Móveis,Consumidor Final (B2C),Corumbá,402.25,Boleto (B2B)
+1526,4770,2025-03-23,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,337.15,PIX
+1527,4771,2024-09-26,Móveis,Consumidor Final (B2C),Campo Grande,269.58,Cartão parcelado
+1528,4775,2025-06-15,Brinquedos,Consumidor Final (B2C),Campo Grande,348.25,Boleto (B2B)
+1529,4777,2025-02-10,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,335.45,Cartão parcelado
+1530,4778,2025-01-02,Beleza e Higiene,Consumidor Final (B2C),Dourados,344.45,Cartão parcelado
+1531,4782,2025-04-27,Eletrônicos,Consumidor Final (B2C),Ponta Porã,415.26,Cartão à vista
+1532,4786,2024-08-15,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,305.85,Contrato Recorrente (B2B)
+1533,4789,2024-07-24,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,201.96,PIX
+1534,4790,2025-08-31,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,300.81,Cartão parcelado
+1535,4792,2025-05-25,Papelaria e Escritório,Consumidor Final (B2C),Dourados,328.14,Cartão à vista
+1536,4794,2024-06-11,Moda e Vestuário,Conta Corporativa (B2B),Dourados,5659.51,Cartão à vista
+1537,4802,2024-11-18,Beleza e Higiene,Consumidor Final (B2C),Corumbá,432.51,Cartão à vista
+1538,4810,2025-01-27,Brinquedos,Conta Corporativa (B2B),Dourados,8661.52,Cartão à vista
+1539,4814,2024-04-06,Ferramentas,Consumidor Final (B2C),Corumbá,263.68,Cartão parcelado
+1540,4819,2024-11-07,Ferramentas,Consumidor Final (B2C),Campo Grande,478.3,Cartão à vista
+1541,4822,2024-08-03,Casa e Decoração,Consumidor Final (B2C),Ponta Porã,271.4,Cartão à vista
+1542,4823,2025-06-18,Eletrônicos,Consumidor Final (B2C),Dourados,406.23,PIX
+1543,4826,2025-05-08,Ferramentas,Conta Corporativa (B2B),Corumbá,3988.18,Cartão à vista
+1544,4830,2024-07-15,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,300.3,PIX
+1545,4836,2024-09-17,Ferramentas,Consumidor Final (B2C),Campo Grande,407.52,Cartão à vista
+1546,4838,2024-04-11,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,205.06,Cartão parcelado
+1547,4839,2024-10-12,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,370.34,PIX
+1548,4843,2024-01-24,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,426.03,Cartão à vista
+1549,4847,2024-04-22,Utilidades Domésticas,Conta Corporativa (B2B),Três Lagoas,4389.37,Boleto (B2B)
+1550,4852,2025-03-21,Brinquedos,Consumidor Final (B2C),Campo Grande,303.1,Cartão parcelado
+1551,4854,2024-09-11,Brinquedos,Consumidor Final (B2C),Dourados,256.39,Cartão parcelado
+1552,4856,2024-03-22,Papelaria e Escritório,Consumidor Final (B2C),Dourados,382.96,Boleto (B2B)
+1553,4860,2025-12-11,Beleza e Higiene,Consumidor Final (B2C),Corumbá,332.59,Boleto (B2B)
+1554,4861,2024-12-09,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,271.36,PIX
+1555,4863,2024-05-12,Móveis,Consumidor Final (B2C),Campo Grande,338.76,Cartão à vista
+1556,4865,2024-08-20,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,367.31,Cartão parcelado
+1557,4867,2025-08-13,Moda e Vestuário,Consumidor Final (B2C),Ponta Porã,352.34,PIX
+1558,4874,2025-03-25,Casa e Decoração,Consumidor Final (B2C),Campo Grande,380.65,Cartão à vista
+1559,4877,2024-02-29,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,228.72,Cartão parcelado
+1560,4879,2025-01-06,Móveis,Consumidor Final (B2C),Campo Grande,281.96,PIX
+1561,4881,2024-10-07,Casa e Decoração,Consumidor Final (B2C),Campo Grande,349.2,PIX
+1562,4885,2025-06-25,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,252.0,PIX
+1563,4886,2025-02-15,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,259.98,Boleto (B2B)
+1564,4892,2025-07-11,Brinquedos,Consumidor Final (B2C),Três Lagoas,427.3,Contrato Recorrente (B2B)
+1565,4893,2025-08-01,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,411.64,Cartão parcelado
+1566,4896,2025-07-13,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,167.36,Cartão à vista
+1567,4907,2024-05-18,Casa e Decoração,Conta Corporativa (B2B),Três Lagoas,9666.38,PIX
+1568,4908,2024-05-22,Eletrônicos,Conta Corporativa (B2B),Campo Grande,9041.84,Cartão à vista
+1569,4909,2024-09-03,Móveis,Consumidor Final (B2C),Três Lagoas,308.42,Cartão à vista
+1570,4911,2024-10-28,Beleza e Higiene,Conta Corporativa (B2B),Ponta Porã,5073.83,PIX
+1571,4917,2025-08-24,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,286.98,PIX
+1572,4924,2024-12-07,Beleza e Higiene,Consumidor Final (B2C),Dourados,266.77,PIX
+1573,4927,2024-01-25,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,471.68,Cartão parcelado
+1574,4929,2025-11-24,Papelaria e Escritório,Conta Corporativa (B2B),Corumbá,9573.76,Boleto (B2B)
+1575,4932,2025-07-06,Móveis,Conta Corporativa (B2B),Dourados,10789.05,PIX
+1576,4933,2025-07-09,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,431.12,PIX
+1577,4939,2024-08-14,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,452.77,Cartão parcelado
+1578,4941,2024-02-23,Moda e Vestuário,Consumidor Final (B2C),Corumbá,382.37,Cartão parcelado
+1579,4942,2024-07-27,Moda e Vestuário,Consumidor Final (B2C),Corumbá,220.83,Cartão à vista
+1580,4948,2024-07-27,Casa e Decoração,Consumidor Final (B2C),Campo Grande,286.96,PIX
+1581,4954,2024-03-19,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,231.86,Boleto (B2B)
+1582,4960,2025-07-30,Casa e Decoração,Conta Corporativa (B2B),Campo Grande,8024.3,PIX
+1583,4965,2024-06-17,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,98.05,Cartão parcelado
+1584,4966,2025-06-02,Beleza e Higiene,Consumidor Final (B2C),Corumbá,333.79,PIX
+1585,4968,2025-12-09,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,326.18,PIX
+1586,4971,2025-08-10,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,348.78,PIX
+1587,4972,2024-04-19,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,322.98,Contrato Recorrente (B2B)
+1588,4974,2024-06-23,Ferramentas,Consumidor Final (B2C),Dourados,432.73,PIX
+1589,4977,2025-10-24,Eletrônicos,Consumidor Final (B2C),Campo Grande,225.48,Cartão à vista
+1590,4989,2025-05-01,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,467.2,PIX
+1591,4993,2024-03-06,Móveis,Consumidor Final (B2C),Campo Grande,233.29,Cartão parcelado
+1592,4996,2024-09-09,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,358.26,Cartão parcelado
+1593,4998,2025-06-21,Ferramentas,Consumidor Final (B2C),Três Lagoas,369.73,PIX
+1594,4999,2025-03-31,Ferramentas,Consumidor Final (B2C),Ponta Porã,250.36,Cartão parcelado
+1595,5002,2025-10-12,Móveis,Consumidor Final (B2C),Dourados,393.05,Cartão à vista
+1596,5005,2024-06-24,Ferramentas,Consumidor Final (B2C),Três Lagoas,252.94,PIX
+1597,5009,2024-03-29,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,12249.14,Boleto (B2B)
+1598,5011,2025-09-23,Utilidades Domésticas,Consumidor Final (B2C),Corumbá,309.99,Boleto (B2B)
+1599,5015,2025-02-15,Eletrônicos,Consumidor Final (B2C),Dourados,197.76,PIX
+1600,5017,2025-08-07,Alimentos e Bebidas,Consumidor Final (B2C),Dourados,323.66,Contrato Recorrente (B2B)
+1601,5018,2024-03-05,Brinquedos,Consumidor Final (B2C),Campo Grande,219.33,PIX
+1602,5019,2025-11-17,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,352.08,Cartão à vista
+1603,5023,2024-07-29,Eletrônicos,Conta Corporativa (B2B),Campo Grande,9083.03,Cartão parcelado
+1604,5027,2024-10-23,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,289.96,Cartão parcelado
+1605,5032,2024-03-15,Utilidades Domésticas,Consumidor Final (B2C),Três Lagoas,328.26,Cartão à vista
+1606,5034,2025-03-31,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,306.14,PIX
+1607,5037,2025-07-04,Eletrônicos,Consumidor Final (B2C),Campo Grande,307.88,Cartão parcelado
+1608,5041,2024-12-22,Brinquedos,Consumidor Final (B2C),Ponta Porã,331.29,PIX
+1609,5044,2025-11-21,Ferramentas,Consumidor Final (B2C),Campo Grande,472.83,PIX
+1610,5053,2024-07-20,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,347.17,Cartão parcelado
+1611,5060,2025-12-31,Eletrônicos,Consumidor Final (B2C),Três Lagoas,229.31,Cartão parcelado
+1612,5064,2025-02-28,Ferramentas,Consumidor Final (B2C),Campo Grande,296.95,PIX
+1613,5068,2025-07-20,Utilidades Domésticas,Consumidor Final (B2C),Campo Grande,343.43,PIX
+1614,5070,2024-05-26,Eletrônicos,Consumidor Final (B2C),Campo Grande,450.65,Cartão parcelado
+1615,5071,2024-02-15,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,178.57,Contrato Recorrente (B2B)
+1616,5072,2025-03-19,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,213.73,Cartão parcelado
+1617,5074,2025-01-04,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,245.7,Cartão parcelado
+1618,5076,2024-04-25,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,396.68,PIX
+1619,5078,2024-02-04,Eletrônicos,Consumidor Final (B2C),Ponta Porã,408.17,Cartão à vista
+1620,5079,2024-05-06,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,531.11,PIX
+1621,5080,2025-12-31,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,310.32,PIX
+1622,5081,2025-06-09,Eletrônicos,Consumidor Final (B2C),Corumbá,459.38,Boleto (B2B)
+1623,5084,2025-11-02,Móveis,Consumidor Final (B2C),Campo Grande,455.34,Cartão parcelado
+1624,5086,2024-12-29,Móveis,Consumidor Final (B2C),Ponta Porã,427.0,Boleto (B2B)
+1625,5087,2025-08-31,Casa e Decoração,Consumidor Final (B2C),Campo Grande,253.06,Cartão parcelado
+1626,5095,2025-09-20,Papelaria e Escritório,Consumidor Final (B2C),Três Lagoas,329.6,Cartão à vista
+1627,5097,2024-11-12,Alimentos e Bebidas,Consumidor Final (B2C),Três Lagoas,444.51,Cartão à vista
+1628,5098,2025-04-25,Moda e Vestuário,Conta Corporativa (B2B),Campo Grande,12027.05,Cartão à vista
+1629,5102,2024-08-11,Eletrônicos,Consumidor Final (B2C),Três Lagoas,189.66,PIX
+1630,5104,2025-11-07,Eletrônicos,Consumidor Final (B2C),Campo Grande,350.12,Cartão à vista
+1631,5109,2025-09-03,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,266.96,Cartão parcelado
+1632,5113,2025-11-07,Eletrônicos,Consumidor Final (B2C),Corumbá,271.77,PIX
+1633,5115,2024-09-10,Ferramentas,Conta Corporativa (B2B),Dourados,8099.79,PIX
+1634,5116,2025-11-04,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,302.71,PIX
+1635,5117,2025-03-01,Alimentos e Bebidas,Consumidor Final (B2C),Ponta Porã,211.86,PIX
+1636,5121,2025-09-27,Ferramentas,Consumidor Final (B2C),Campo Grande,355.29,Cartão à vista
+1637,5122,2024-11-05,Brinquedos,Conta Corporativa (B2B),Dourados,8126.9,Cartão parcelado
+1638,5123,2025-11-12,Eletrônicos,Consumidor Final (B2C),Corumbá,366.8,Cartão à vista
+1639,5125,2025-05-24,Moda e Vestuário,Conta Corporativa (B2B),Ponta Porã,10884.1,PIX
+1640,5126,2025-12-19,Móveis,Consumidor Final (B2C),Campo Grande,124.43,PIX
+1641,5127,2024-04-13,Casa e Decoração,Consumidor Final (B2C),Três Lagoas,329.98,Cartão à vista
+1642,5129,2025-02-14,Papelaria e Escritório,Conta Corporativa (B2B),Corumbá,10774.82,PIX
+1643,5136,2025-04-29,Papelaria e Escritório,Consumidor Final (B2C),Corumbá,359.76,Cartão à vista
+1644,5139,2024-08-29,Moda e Vestuário,Consumidor Final (B2C),Campo Grande,548.78,PIX
+1645,5144,2024-10-14,Eletrônicos,Conta Corporativa (B2B),Corumbá,7251.32,PIX
+1646,5148,2024-06-05,Papelaria e Escritório,Consumidor Final (B2C),Campo Grande,452.14,Cartão parcelado
+1647,5151,2025-03-27,Brinquedos,Consumidor Final (B2C),Campo Grande,250.97,PIX
+1648,5154,2024-11-24,Alimentos e Bebidas,Consumidor Final (B2C),Campo Grande,412.28,Boleto (B2B)
+1649,5167,2024-06-11,Brinquedos,Consumidor Final (B2C),Campo Grande,448.4,Cartão à vista
+1650,5171,2024-09-13,Eletrônicos,Consumidor Final (B2C),Campo Grande,362.5,Cartão parcelado
+1651,5174,2025-11-13,Ferramentas,Consumidor Final (B2C),Dourados,349.5,Cartão à vista
+1652,5175,2024-11-13,Casa e Decoração,Consumidor Final (B2C),Dourados,227.0,Cartão parcelado
+1653,5177,2025-02-24,Beleza e Higiene,Consumidor Final (B2C),Três Lagoas,332.76,Cartão parcelado
+1654,5178,2025-06-24,Ferramentas,Consumidor Final (B2C),Dourados,445.15,Cartão parcelado
+1655,5185,2025-09-10,Papelaria e Escritório,Consumidor Final (B2C),Ponta Porã,371.14,Cartão à vista
+1656,5188,2025-02-17,Papelaria e Escritório,Conta Corporativa (B2B),Dourados,10445.65,Cartão à vista
+1657,5193,2025-03-02,Brinquedos,Consumidor Final (B2C),Corumbá,365.31,PIX
+1658,5195,2024-10-11,Brinquedos,Consumidor Final (B2C),Ponta Porã,229.77,Cartão parcelado
+1659,5197,2025-12-31,Beleza e Higiene,Consumidor Final (B2C),Campo Grande,350.49,Cartão à vista
+1660,5198,2024-10-13,Eletrônicos,Consumidor Final (B2C),Campo Grande,256.62,Cartão parcelado
