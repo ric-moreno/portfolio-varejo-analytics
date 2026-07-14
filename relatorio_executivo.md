@@ -44,12 +44,6 @@ alocação de esforço comercial e marketing.
    `churn_clientes.csv`) para ações de retenção direcionadas — especialmente
    em contratos B2B não renovados, que têm maior impacto de receita.
 
-## Próximo Passo Recomendado
-
-Cruzar a taxa de conversão por canal com o CAC por canal (ambos já
-disponíveis nas bases) para identificar se os canais mais caros também são
-os mais eficientes — ou se há oportunidade de realocação de verba de
-marketing sem perda de volume de vendas.
 
 ---
 *Elaborado a partir de `sql/consultas_kpis.sql` e `funil_vendas.csv` /
