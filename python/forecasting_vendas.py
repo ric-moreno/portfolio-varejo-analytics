@@ -8,7 +8,7 @@ except ImportError:
     TEM_PROPHET = False
 
 
-def carregar_serie_mensal(caminho_vendas="../vendas.csv"):
+def carregar_serie_mensal(caminho_vendas="vendas.csv"):
     df = pd.read_csv(caminho_vendas, parse_dates=["data_venda"])
     serie = (
         df.groupby(pd.Grouper(key="data_venda", freq="MS"))
@@ -76,4 +76,4 @@ if __name__ == "__main__":
     print(f"\nValidação do modelo (últimos 6 meses reais vs. previstos):")
     print(f"  MAE  (erro médio absoluto): {erro['MAE']} vendas")
     print(f"  RMSE (raiz do erro quadrático médio): {erro['RMSE']} vendas")
-    print("\n-> Sempre reporte esse erro junto com a projeção ao apresentar para a diretoria.")
+    print("\n-> Sempre reporte esse erro junto com a projeção")

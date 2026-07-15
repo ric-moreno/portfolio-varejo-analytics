@@ -44,7 +44,6 @@ alocação de esforço comercial e marketing.
    `churn_clientes.csv`) para ações de retenção direcionadas — especialmente
    em contratos B2B não renovados, que têm maior impacto de receita.
 
-
 ---
 *Elaborado a partir de `sql/consultas_kpis.sql` e `funil_vendas.csv` /
 `vendas.csv` / `churn_clientes.csv` / `investimento_marketing.csv`. Números
